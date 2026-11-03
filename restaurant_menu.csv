@@ -1,0 +1,1001 @@
+Dish_ID,Dish_Name,Cuisine,Price,Rating,Veg_NonVeg,Image_URL
+1,Butter Chicken,Chinese,327,4.4,Non-Veg,"https://loremflickr.com/600/400/Butter,Chicken"
+2,Burger,Chinese,131,3.7,Veg,https://loremflickr.com/600/400/Burger
+3,Noodles,Indian,451,4.2,Non-Veg,https://loremflickr.com/600/400/Noodles
+4,Rasgulla,Indian,108,4.0,Non-Veg,https://loremflickr.com/600/400/Rasgulla
+5,Idli,Indian,380,3.9,Non-Veg,https://loremflickr.com/600/400/Idli
+6,Gulab Jamun,Indian,391,4.0,Veg,"https://loremflickr.com/600/400/Gulab,Jamun"
+7,Soup,Chinese,289,4.2,Veg,https://loremflickr.com/600/400/Soup
+8,Butter Chicken,Chinese,404,4.2,Non-Veg,"https://loremflickr.com/600/400/Butter,Chicken"
+9,Chowmein,Chinese,267,4.2,Non-Veg,https://loremflickr.com/600/400/Chowmein
+10,Biryani,Italian,346,3.9,Non-Veg,https://loremflickr.com/600/400/Biryani
+11,Soup,Chinese,260,3.8,Non-Veg,https://loremflickr.com/600/400/Soup
+12,Pasta,Italian,113,4.9,Veg,https://loremflickr.com/600/400/Pasta
+13,Pasta,American,453,4.6,Veg,https://loremflickr.com/600/400/Pasta
+14,Sandwich,Indian,274,4.0,Veg,https://loremflickr.com/600/400/Sandwich
+15,Butter Chicken,Indian,382,3.7,Veg,"https://loremflickr.com/600/400/Butter,Chicken"
+16,Soup,Italian,326,3.6,Veg,https://loremflickr.com/600/400/Soup
+17,Paneer Tikka,Indian,437,3.9,Veg,"https://loremflickr.com/600/400/Paneer,Tikka"
+18,Pasta,American,429,5.0,Veg,https://loremflickr.com/600/400/Pasta
+19,Pizza,Indian,344,4.5,Non-Veg,https://loremflickr.com/600/400/Pizza
+20,Idli,Chinese,493,3.8,Veg,https://loremflickr.com/600/400/Idli
+21,Noodles,Italian,433,4.1,Non-Veg,https://loremflickr.com/600/400/Noodles
+22,Gulab Jamun,Italian,271,4.2,Non-Veg,"https://loremflickr.com/600/400/Gulab,Jamun"
+23,Dosa,Chinese,239,3.9,Veg,https://loremflickr.com/600/400/Dosa
+24,Butter Chicken,Chinese,336,4.4,Non-Veg,"https://loremflickr.com/600/400/Butter,Chicken"
+25,Gulab Jamun,Chinese,247,4.7,Veg,"https://loremflickr.com/600/400/Gulab,Jamun"
+26,Spring Roll,Chinese,151,3.9,Non-Veg,"https://loremflickr.com/600/400/Spring,Roll"
+27,Rasgulla,Italian,400,4.4,Veg,https://loremflickr.com/600/400/Rasgulla
+28,Chowmein,Italian,449,4.0,Non-Veg,https://loremflickr.com/600/400/Chowmein
+29,Ice Cream,Indian,390,3.6,Non-Veg,"https://loremflickr.com/600/400/Ice,Cream"
+30,Rasgulla,Italian,463,4.3,Veg,https://loremflickr.com/600/400/Rasgulla
+31,Noodles,Indian,136,4.3,Non-Veg,https://loremflickr.com/600/400/Noodles
+32,Gulab Jamun,Italian,490,4.9,Veg,"https://loremflickr.com/600/400/Gulab,Jamun"
+33,Biryani,Italian,473,4.1,Veg,https://loremflickr.com/600/400/Biryani
+34,Paneer Tikka,Chinese,119,4.6,Non-Veg,"https://loremflickr.com/600/400/Paneer,Tikka"
+35,Chowmein,Indian,203,4.3,Non-Veg,https://loremflickr.com/600/400/Chowmein
+36,Spring Roll,American,499,4.6,Non-Veg,"https://loremflickr.com/600/400/Spring,Roll"
+37,Spring Roll,American,364,4.3,Non-Veg,"https://loremflickr.com/600/400/Spring,Roll"
+38,Rasgulla,Italian,296,3.7,Veg,https://loremflickr.com/600/400/Rasgulla
+39,Pasta,Indian,123,4.6,Non-Veg,https://loremflickr.com/600/400/Pasta
+40,Soup,Indian,324,4.7,Non-Veg,https://loremflickr.com/600/400/Soup
+41,Pizza,Chinese,432,4.2,Non-Veg,https://loremflickr.com/600/400/Pizza
+42,Rasgulla,American,287,3.8,Non-Veg,https://loremflickr.com/600/400/Rasgulla
+43,Paneer Tikka,Italian,344,3.8,Veg,"https://loremflickr.com/600/400/Paneer,Tikka"
+44,Burger,Indian,215,4.6,Veg,https://loremflickr.com/600/400/Burger
+45,Sandwich,Indian,169,4.2,Veg,https://loremflickr.com/600/400/Sandwich
+46,Gulab Jamun,Italian,485,4.9,Veg,"https://loremflickr.com/600/400/Gulab,Jamun"
+47,Samosa,Chinese,435,4.4,Veg,https://loremflickr.com/600/400/Samosa
+48,Noodles,Italian,429,4.0,Veg,https://loremflickr.com/600/400/Noodles
+49,Samosa,Indian,382,4.4,Veg,https://loremflickr.com/600/400/Samosa
+50,Butter Chicken,American,479,5.0,Non-Veg,"https://loremflickr.com/600/400/Butter,Chicken"
+51,Biryani,Italian,229,4.4,Veg,https://loremflickr.com/600/400/Biryani
+52,Rasgulla,Italian,110,4.9,Veg,https://loremflickr.com/600/400/Rasgulla
+53,Gulab Jamun,American,108,3.6,Non-Veg,"https://loremflickr.com/600/400/Gulab,Jamun"
+54,Sandwich,Italian,402,4.0,Non-Veg,https://loremflickr.com/600/400/Sandwich
+55,Idli,Chinese,198,4.6,Non-Veg,https://loremflickr.com/600/400/Idli
+56,Sandwich,Indian,370,3.7,Non-Veg,https://loremflickr.com/600/400/Sandwich
+57,Paneer Tikka,Chinese,290,4.9,Non-Veg,"https://loremflickr.com/600/400/Paneer,Tikka"
+58,Butter Chicken,Chinese,392,4.6,Non-Veg,"https://loremflickr.com/600/400/Butter,Chicken"
+59,Rasgulla,Italian,293,4.0,Veg,https://loremflickr.com/600/400/Rasgulla
+60,Samosa,Indian,401,5.0,Veg,https://loremflickr.com/600/400/Samosa
+61,Burger,Chinese,315,4.5,Non-Veg,https://loremflickr.com/600/400/Burger
+62,Soup,Indian,159,4.2,Veg,https://loremflickr.com/600/400/Soup
+63,Pasta,Chinese,289,4.4,Non-Veg,https://loremflickr.com/600/400/Pasta
+64,Idli,Indian,473,4.8,Non-Veg,https://loremflickr.com/600/400/Idli
+65,Gulab Jamun,American,424,4.5,Veg,"https://loremflickr.com/600/400/Gulab,Jamun"
+66,Biryani,Italian,377,4.9,Veg,https://loremflickr.com/600/400/Biryani
+67,Biryani,Italian,284,4.2,Non-Veg,https://loremflickr.com/600/400/Biryani
+68,Samosa,American,302,4.1,Non-Veg,https://loremflickr.com/600/400/Samosa
+69,Biryani,Indian,315,4.0,Veg,https://loremflickr.com/600/400/Biryani
+70,Fried Rice,Chinese,263,3.8,Non-Veg,"https://loremflickr.com/600/400/Fried,Rice"
+71,Butter Chicken,Indian,338,3.9,Non-Veg,"https://loremflickr.com/600/400/Butter,Chicken"
+72,Fried Rice,Italian,422,4.5,Non-Veg,"https://loremflickr.com/600/400/Fried,Rice"
+73,Salad,American,464,3.6,Non-Veg,https://loremflickr.com/600/400/Salad
+74,Brownie,American,207,4.2,Veg,https://loremflickr.com/600/400/Brownie
+75,Spring Roll,American,310,3.5,Non-Veg,"https://loremflickr.com/600/400/Spring,Roll"
+76,Butter Chicken,Chinese,173,4.4,Non-Veg,"https://loremflickr.com/600/400/Butter,Chicken"
+77,Paneer Tikka,Italian,266,4.1,Non-Veg,"https://loremflickr.com/600/400/Paneer,Tikka"
+78,Rasgulla,Indian,273,3.8,Non-Veg,https://loremflickr.com/600/400/Rasgulla
+79,Pizza,Italian,421,4.5,Veg,https://loremflickr.com/600/400/Pizza
+80,Noodles,Italian,250,4.4,Non-Veg,https://loremflickr.com/600/400/Noodles
+81,Idli,Chinese,356,4.8,Non-Veg,https://loremflickr.com/600/400/Idli
+82,Butter Chicken,Indian,304,4.2,Non-Veg,"https://loremflickr.com/600/400/Butter,Chicken"
+83,Gulab Jamun,American,478,5.0,Non-Veg,"https://loremflickr.com/600/400/Gulab,Jamun"
+84,Fried Rice,Chinese,248,3.8,Non-Veg,"https://loremflickr.com/600/400/Fried,Rice"
+85,Chowmein,American,178,4.0,Veg,https://loremflickr.com/600/400/Chowmein
+86,Butter Chicken,Italian,441,3.7,Veg,"https://loremflickr.com/600/400/Butter,Chicken"
+87,Rasgulla,Chinese,169,4.7,Veg,https://loremflickr.com/600/400/Rasgulla
+88,Pizza,Chinese,346,4.1,Veg,https://loremflickr.com/600/400/Pizza
+89,Spring Roll,Indian,494,3.6,Veg,"https://loremflickr.com/600/400/Spring,Roll"
+90,Chowmein,Italian,470,4.6,Non-Veg,https://loremflickr.com/600/400/Chowmein
+91,Sandwich,Italian,435,4.2,Non-Veg,https://loremflickr.com/600/400/Sandwich
+92,Chowmein,Indian,468,4.6,Non-Veg,https://loremflickr.com/600/400/Chowmein
+93,Idli,American,352,5.0,Veg,https://loremflickr.com/600/400/Idli
+94,Ice Cream,American,169,3.8,Non-Veg,"https://loremflickr.com/600/400/Ice,Cream"
+95,Idli,Italian,309,4.6,Non-Veg,https://loremflickr.com/600/400/Idli
+96,Pasta,Italian,487,3.5,Veg,https://loremflickr.com/600/400/Pasta
+97,Idli,Chinese,192,3.7,Non-Veg,https://loremflickr.com/600/400/Idli
+98,Dosa,Indian,474,4.5,Veg,https://loremflickr.com/600/400/Dosa
+99,Fried Rice,Italian,317,3.7,Veg,"https://loremflickr.com/600/400/Fried,Rice"
+100,Samosa,Chinese,156,4.6,Non-Veg,https://loremflickr.com/600/400/Samosa
+101,Dosa,American,103,4.5,Veg,https://loremflickr.com/600/400/Dosa
+102,Samosa,Indian,315,4.7,Non-Veg,https://loremflickr.com/600/400/Samosa
+103,Soup,Italian,399,3.9,Non-Veg,https://loremflickr.com/600/400/Soup
+104,Ice Cream,Indian,281,4.2,Non-Veg,"https://loremflickr.com/600/400/Ice,Cream"
+105,Paneer Tikka,Italian,135,4.4,Veg,"https://loremflickr.com/600/400/Paneer,Tikka"
+106,Soup,Indian,161,4.9,Non-Veg,https://loremflickr.com/600/400/Soup
+107,Burger,Chinese,280,3.7,Veg,https://loremflickr.com/600/400/Burger
+108,Soup,Chinese,477,4.3,Non-Veg,https://loremflickr.com/600/400/Soup
+109,Soup,Indian,385,3.9,Non-Veg,https://loremflickr.com/600/400/Soup
+110,Pasta,American,432,3.9,Veg,https://loremflickr.com/600/400/Pasta
+111,Paneer Tikka,American,350,4.5,Non-Veg,"https://loremflickr.com/600/400/Paneer,Tikka"
+112,Pizza,Chinese,453,4.1,Non-Veg,https://loremflickr.com/600/400/Pizza
+113,Chowmein,Italian,170,5.0,Veg,https://loremflickr.com/600/400/Chowmein
+114,Noodles,Italian,165,4.4,Veg,https://loremflickr.com/600/400/Noodles
+115,Burger,Italian,466,4.5,Non-Veg,https://loremflickr.com/600/400/Burger
+116,Pasta,Indian,289,3.7,Non-Veg,https://loremflickr.com/600/400/Pasta
+117,Pizza,Chinese,370,3.6,Non-Veg,https://loremflickr.com/600/400/Pizza
+118,Chowmein,Indian,291,4.5,Non-Veg,https://loremflickr.com/600/400/Chowmein
+119,Fried Rice,Italian,181,3.6,Non-Veg,"https://loremflickr.com/600/400/Fried,Rice"
+120,Idli,Italian,287,3.5,Non-Veg,https://loremflickr.com/600/400/Idli
+121,Pizza,Indian,403,3.6,Non-Veg,https://loremflickr.com/600/400/Pizza
+122,Gulab Jamun,American,166,4.2,Veg,"https://loremflickr.com/600/400/Gulab,Jamun"
+123,Samosa,American,259,5.0,Non-Veg,https://loremflickr.com/600/400/Samosa
+124,Chowmein,Chinese,361,5.0,Veg,https://loremflickr.com/600/400/Chowmein
+125,Salad,American,160,4.6,Veg,https://loremflickr.com/600/400/Salad
+126,Chowmein,Chinese,113,4.1,Veg,https://loremflickr.com/600/400/Chowmein
+127,Brownie,Chinese,315,4.2,Non-Veg,https://loremflickr.com/600/400/Brownie
+128,Soup,American,399,5.0,Non-Veg,https://loremflickr.com/600/400/Soup
+129,Samosa,Chinese,406,5.0,Non-Veg,https://loremflickr.com/600/400/Samosa
+130,Samosa,American,179,4.6,Veg,https://loremflickr.com/600/400/Samosa
+131,Dosa,Indian,497,4.6,Veg,https://loremflickr.com/600/400/Dosa
+132,Salad,American,198,4.2,Veg,https://loremflickr.com/600/400/Salad
+133,Noodles,Chinese,276,4.5,Non-Veg,https://loremflickr.com/600/400/Noodles
+134,Spring Roll,Chinese,202,5.0,Veg,"https://loremflickr.com/600/400/Spring,Roll"
+135,Ice Cream,Italian,414,4.3,Veg,"https://loremflickr.com/600/400/Ice,Cream"
+136,Noodles,Chinese,177,4.8,Non-Veg,https://loremflickr.com/600/400/Noodles
+137,Brownie,Indian,434,3.7,Veg,https://loremflickr.com/600/400/Brownie
+138,Spring Roll,Indian,241,4.2,Veg,"https://loremflickr.com/600/400/Spring,Roll"
+139,Soup,Chinese,452,4.7,Non-Veg,https://loremflickr.com/600/400/Soup
+140,Chowmein,American,279,4.4,Non-Veg,https://loremflickr.com/600/400/Chowmein
+141,Brownie,Indian,326,4.9,Non-Veg,https://loremflickr.com/600/400/Brownie
+142,Salad,Indian,357,3.6,Veg,https://loremflickr.com/600/400/Salad
+143,Butter Chicken,American,209,4.9,Non-Veg,"https://loremflickr.com/600/400/Butter,Chicken"
+144,Chowmein,Chinese,259,3.6,Veg,https://loremflickr.com/600/400/Chowmein
+145,Samosa,American,166,4.0,Veg,https://loremflickr.com/600/400/Samosa
+146,Ice Cream,Italian,166,4.0,Veg,"https://loremflickr.com/600/400/Ice,Cream"
+147,Ice Cream,Italian,343,3.8,Non-Veg,"https://loremflickr.com/600/400/Ice,Cream"
+148,Rasgulla,Chinese,288,4.5,Veg,https://loremflickr.com/600/400/Rasgulla
+149,Dosa,Italian,458,4.2,Veg,https://loremflickr.com/600/400/Dosa
+150,Burger,American,191,3.9,Non-Veg,https://loremflickr.com/600/400/Burger
+151,Soup,American,496,4.4,Veg,https://loremflickr.com/600/400/Soup
+152,Fried Rice,Italian,155,4.6,Non-Veg,"https://loremflickr.com/600/400/Fried,Rice"
+153,Burger,Italian,228,3.6,Veg,https://loremflickr.com/600/400/Burger
+154,Idli,Chinese,288,3.9,Veg,https://loremflickr.com/600/400/Idli
+155,Fried Rice,American,161,4.4,Non-Veg,"https://loremflickr.com/600/400/Fried,Rice"
+156,Noodles,American,220,4.3,Non-Veg,https://loremflickr.com/600/400/Noodles
+157,Pizza,American,242,4.5,Non-Veg,https://loremflickr.com/600/400/Pizza
+158,Biryani,Chinese,213,4.2,Non-Veg,https://loremflickr.com/600/400/Biryani
+159,Sandwich,Italian,284,4.5,Non-Veg,https://loremflickr.com/600/400/Sandwich
+160,Pasta,Italian,494,3.7,Veg,https://loremflickr.com/600/400/Pasta
+161,Biryani,American,297,3.7,Veg,https://loremflickr.com/600/400/Biryani
+162,Soup,Chinese,356,3.8,Veg,https://loremflickr.com/600/400/Soup
+163,Noodles,Italian,481,4.9,Veg,https://loremflickr.com/600/400/Noodles
+164,Rasgulla,Indian,185,4.1,Non-Veg,https://loremflickr.com/600/400/Rasgulla
+165,Soup,American,254,3.6,Veg,https://loremflickr.com/600/400/Soup
+166,Dosa,Italian,264,4.3,Non-Veg,https://loremflickr.com/600/400/Dosa
+167,Brownie,Indian,172,3.8,Non-Veg,https://loremflickr.com/600/400/Brownie
+168,Pizza,American,388,4.2,Non-Veg,https://loremflickr.com/600/400/Pizza
+169,Chowmein,Italian,244,3.9,Non-Veg,https://loremflickr.com/600/400/Chowmein
+170,Brownie,Chinese,395,3.7,Non-Veg,https://loremflickr.com/600/400/Brownie
+171,Noodles,Indian,268,4.5,Veg,https://loremflickr.com/600/400/Noodles
+172,Soup,Indian,203,4.2,Non-Veg,https://loremflickr.com/600/400/Soup
+173,Spring Roll,Italian,258,4.3,Veg,"https://loremflickr.com/600/400/Spring,Roll"
+174,Butter Chicken,Indian,214,4.8,Non-Veg,"https://loremflickr.com/600/400/Butter,Chicken"
+175,Sandwich,Indian,463,3.5,Veg,https://loremflickr.com/600/400/Sandwich
+176,Butter Chicken,Italian,167,3.8,Veg,"https://loremflickr.com/600/400/Butter,Chicken"
+177,Fried Rice,Indian,217,4.0,Non-Veg,"https://loremflickr.com/600/400/Fried,Rice"
+178,Fried Rice,Indian,202,4.9,Non-Veg,"https://loremflickr.com/600/400/Fried,Rice"
+179,Burger,Chinese,355,3.9,Non-Veg,https://loremflickr.com/600/400/Burger
+180,Sandwich,Chinese,120,3.7,Non-Veg,https://loremflickr.com/600/400/Sandwich
+181,Paneer Tikka,Chinese,402,3.7,Non-Veg,"https://loremflickr.com/600/400/Paneer,Tikka"
+182,Spring Roll,American,416,4.8,Veg,"https://loremflickr.com/600/400/Spring,Roll"
+183,Dosa,Italian,492,4.0,Veg,https://loremflickr.com/600/400/Dosa
+184,Noodles,Indian,271,4.3,Veg,https://loremflickr.com/600/400/Noodles
+185,Dosa,Chinese,120,3.7,Veg,https://loremflickr.com/600/400/Dosa
+186,Pasta,Chinese,299,4.4,Veg,https://loremflickr.com/600/400/Pasta
+187,Butter Chicken,Indian,325,3.8,Veg,"https://loremflickr.com/600/400/Butter,Chicken"
+188,Pasta,American,278,3.9,Non-Veg,https://loremflickr.com/600/400/Pasta
+189,Idli,Indian,189,4.3,Veg,https://loremflickr.com/600/400/Idli
+190,Rasgulla,Italian,184,4.9,Non-Veg,https://loremflickr.com/600/400/Rasgulla
+191,Gulab Jamun,Indian,424,5.0,Non-Veg,"https://loremflickr.com/600/400/Gulab,Jamun"
+192,Soup,Italian,380,4.7,Non-Veg,https://loremflickr.com/600/400/Soup
+193,Dosa,Indian,286,4.0,Veg,https://loremflickr.com/600/400/Dosa
+194,Soup,Italian,258,3.9,Veg,https://loremflickr.com/600/400/Soup
+195,Noodles,Indian,192,3.6,Non-Veg,https://loremflickr.com/600/400/Noodles
+196,Samosa,American,455,4.7,Non-Veg,https://loremflickr.com/600/400/Samosa
+197,Samosa,American,431,4.5,Non-Veg,https://loremflickr.com/600/400/Samosa
+198,Sandwich,Italian,189,4.9,Non-Veg,https://loremflickr.com/600/400/Sandwich
+199,Noodles,Italian,157,4.3,Non-Veg,https://loremflickr.com/600/400/Noodles
+200,Biryani,American,380,3.6,Veg,https://loremflickr.com/600/400/Biryani
+201,Ice Cream,Chinese,148,4.2,Veg,"https://loremflickr.com/600/400/Ice,Cream"
+202,Fried Rice,Chinese,305,3.9,Veg,"https://loremflickr.com/600/400/Fried,Rice"
+203,Brownie,Indian,235,4.1,Non-Veg,https://loremflickr.com/600/400/Brownie
+204,Samosa,American,497,4.9,Veg,https://loremflickr.com/600/400/Samosa
+205,Biryani,American,447,4.5,Veg,https://loremflickr.com/600/400/Biryani
+206,Noodles,Indian,468,3.6,Veg,https://loremflickr.com/600/400/Noodles
+207,Biryani,Indian,130,3.8,Non-Veg,https://loremflickr.com/600/400/Biryani
+208,Fried Rice,Chinese,367,4.8,Non-Veg,"https://loremflickr.com/600/400/Fried,Rice"
+209,Idli,Chinese,428,4.0,Non-Veg,https://loremflickr.com/600/400/Idli
+210,Brownie,American,390,3.5,Non-Veg,https://loremflickr.com/600/400/Brownie
+211,Chowmein,Chinese,184,3.5,Non-Veg,https://loremflickr.com/600/400/Chowmein
+212,Biryani,Italian,337,4.8,Non-Veg,https://loremflickr.com/600/400/Biryani
+213,Gulab Jamun,Italian,298,4.3,Veg,"https://loremflickr.com/600/400/Gulab,Jamun"
+214,Sandwich,Indian,370,4.5,Non-Veg,https://loremflickr.com/600/400/Sandwich
+215,Biryani,American,339,3.9,Non-Veg,https://loremflickr.com/600/400/Biryani
+216,Fried Rice,American,120,3.6,Non-Veg,"https://loremflickr.com/600/400/Fried,Rice"
+217,Rasgulla,Indian,298,3.8,Non-Veg,https://loremflickr.com/600/400/Rasgulla
+218,Biryani,Chinese,293,4.9,Veg,https://loremflickr.com/600/400/Biryani
+219,Butter Chicken,American,424,4.2,Veg,"https://loremflickr.com/600/400/Butter,Chicken"
+220,Rasgulla,American,257,4.9,Non-Veg,https://loremflickr.com/600/400/Rasgulla
+221,Samosa,Chinese,242,3.7,Non-Veg,https://loremflickr.com/600/400/Samosa
+222,Ice Cream,Italian,126,4.0,Non-Veg,"https://loremflickr.com/600/400/Ice,Cream"
+223,Rasgulla,Chinese,453,3.9,Non-Veg,https://loremflickr.com/600/400/Rasgulla
+224,Sandwich,Chinese,316,4.2,Non-Veg,https://loremflickr.com/600/400/Sandwich
+225,Samosa,Indian,331,4.5,Veg,https://loremflickr.com/600/400/Samosa
+226,Pizza,Italian,291,4.3,Non-Veg,https://loremflickr.com/600/400/Pizza
+227,Salad,Chinese,399,4.1,Non-Veg,https://loremflickr.com/600/400/Salad
+228,Butter Chicken,Italian,182,3.8,Veg,"https://loremflickr.com/600/400/Butter,Chicken"
+229,Chowmein,Chinese,262,4.6,Non-Veg,https://loremflickr.com/600/400/Chowmein
+230,Soup,Italian,472,4.4,Veg,https://loremflickr.com/600/400/Soup
+231,Salad,Chinese,211,3.7,Veg,https://loremflickr.com/600/400/Salad
+232,Samosa,Chinese,403,3.9,Veg,https://loremflickr.com/600/400/Samosa
+233,Chowmein,Indian,127,4.2,Non-Veg,https://loremflickr.com/600/400/Chowmein
+234,Ice Cream,Indian,477,3.8,Non-Veg,"https://loremflickr.com/600/400/Ice,Cream"
+235,Pizza,Indian,295,3.9,Non-Veg,https://loremflickr.com/600/400/Pizza
+236,Chowmein,Italian,468,4.6,Non-Veg,https://loremflickr.com/600/400/Chowmein
+237,Paneer Tikka,Italian,254,4.9,Veg,"https://loremflickr.com/600/400/Paneer,Tikka"
+238,Pizza,Indian,287,4.3,Non-Veg,https://loremflickr.com/600/400/Pizza
+239,Spring Roll,Chinese,411,4.6,Veg,"https://loremflickr.com/600/400/Spring,Roll"
+240,Dosa,Chinese,364,3.8,Veg,https://loremflickr.com/600/400/Dosa
+241,Spring Roll,American,465,4.4,Veg,"https://loremflickr.com/600/400/Spring,Roll"
+242,Biryani,American,370,4.6,Veg,https://loremflickr.com/600/400/Biryani
+243,Dosa,American,473,3.7,Non-Veg,https://loremflickr.com/600/400/Dosa
+244,Dosa,Indian,127,4.7,Non-Veg,https://loremflickr.com/600/400/Dosa
+245,Paneer Tikka,Indian,217,5.0,Non-Veg,"https://loremflickr.com/600/400/Paneer,Tikka"
+246,Burger,Indian,338,3.9,Non-Veg,https://loremflickr.com/600/400/Burger
+247,Rasgulla,Chinese,421,3.6,Veg,https://loremflickr.com/600/400/Rasgulla
+248,Pizza,Indian,206,4.5,Non-Veg,https://loremflickr.com/600/400/Pizza
+249,Idli,Italian,222,4.1,Veg,https://loremflickr.com/600/400/Idli
+250,Biryani,American,114,3.7,Veg,https://loremflickr.com/600/400/Biryani
+251,Burger,Indian,387,4.0,Veg,https://loremflickr.com/600/400/Burger
+252,Chowmein,Indian,447,4.9,Non-Veg,https://loremflickr.com/600/400/Chowmein
+253,Butter Chicken,Italian,311,4.0,Veg,"https://loremflickr.com/600/400/Butter,Chicken"
+254,Butter Chicken,Indian,175,3.7,Non-Veg,"https://loremflickr.com/600/400/Butter,Chicken"
+255,Pasta,Italian,442,4.8,Veg,https://loremflickr.com/600/400/Pasta
+256,Gulab Jamun,Indian,324,3.6,Veg,"https://loremflickr.com/600/400/Gulab,Jamun"
+257,Ice Cream,Italian,253,4.4,Non-Veg,"https://loremflickr.com/600/400/Ice,Cream"
+258,Burger,Chinese,311,3.6,Non-Veg,https://loremflickr.com/600/400/Burger
+259,Butter Chicken,Italian,161,4.4,Non-Veg,"https://loremflickr.com/600/400/Butter,Chicken"
+260,Pasta,Indian,165,3.7,Veg,https://loremflickr.com/600/400/Pasta
+261,Soup,Chinese,189,4.9,Non-Veg,https://loremflickr.com/600/400/Soup
+262,Gulab Jamun,Chinese,299,4.4,Veg,"https://loremflickr.com/600/400/Gulab,Jamun"
+263,Salad,American,164,3.6,Non-Veg,https://loremflickr.com/600/400/Salad
+264,Butter Chicken,Italian,323,4.3,Veg,"https://loremflickr.com/600/400/Butter,Chicken"
+265,Gulab Jamun,Indian,140,4.9,Non-Veg,"https://loremflickr.com/600/400/Gulab,Jamun"
+266,Fried Rice,American,453,4.3,Veg,"https://loremflickr.com/600/400/Fried,Rice"
+267,Chowmein,Indian,354,3.9,Veg,https://loremflickr.com/600/400/Chowmein
+268,Butter Chicken,American,462,4.2,Veg,"https://loremflickr.com/600/400/Butter,Chicken"
+269,Salad,Indian,284,4.2,Non-Veg,https://loremflickr.com/600/400/Salad
+270,Ice Cream,American,442,3.6,Non-Veg,"https://loremflickr.com/600/400/Ice,Cream"
+271,Pizza,American,136,3.7,Veg,https://loremflickr.com/600/400/Pizza
+272,Brownie,Indian,251,4.1,Non-Veg,https://loremflickr.com/600/400/Brownie
+273,Noodles,Indian,164,4.8,Veg,https://loremflickr.com/600/400/Noodles
+274,Samosa,American,296,4.2,Non-Veg,https://loremflickr.com/600/400/Samosa
+275,Samosa,American,497,4.9,Non-Veg,https://loremflickr.com/600/400/Samosa
+276,Soup,Italian,290,4.3,Non-Veg,https://loremflickr.com/600/400/Soup
+277,Sandwich,American,322,3.6,Veg,https://loremflickr.com/600/400/Sandwich
+278,Pizza,Indian,399,3.6,Non-Veg,https://loremflickr.com/600/400/Pizza
+279,Dosa,Indian,413,4.9,Veg,https://loremflickr.com/600/400/Dosa
+280,Burger,Chinese,394,4.8,Non-Veg,https://loremflickr.com/600/400/Burger
+281,Fried Rice,Indian,224,4.1,Veg,"https://loremflickr.com/600/400/Fried,Rice"
+282,Salad,Chinese,460,3.5,Veg,https://loremflickr.com/600/400/Salad
+283,Brownie,Indian,351,5.0,Non-Veg,https://loremflickr.com/600/400/Brownie
+284,Biryani,Chinese,223,4.5,Veg,https://loremflickr.com/600/400/Biryani
+285,Butter Chicken,Chinese,342,4.7,Non-Veg,"https://loremflickr.com/600/400/Butter,Chicken"
+286,Butter Chicken,Indian,199,4.8,Veg,"https://loremflickr.com/600/400/Butter,Chicken"
+287,Sandwich,Indian,410,5.0,Veg,https://loremflickr.com/600/400/Sandwich
+288,Noodles,Italian,461,3.6,Non-Veg,https://loremflickr.com/600/400/Noodles
+289,Pizza,Italian,189,4.9,Veg,https://loremflickr.com/600/400/Pizza
+290,Butter Chicken,American,427,4.8,Non-Veg,"https://loremflickr.com/600/400/Butter,Chicken"
+291,Rasgulla,Chinese,164,4.0,Non-Veg,https://loremflickr.com/600/400/Rasgulla
+292,Samosa,Indian,312,4.8,Veg,https://loremflickr.com/600/400/Samosa
+293,Fried Rice,Indian,466,4.2,Non-Veg,"https://loremflickr.com/600/400/Fried,Rice"
+294,Ice Cream,Indian,314,4.2,Veg,"https://loremflickr.com/600/400/Ice,Cream"
+295,Burger,Chinese,384,4.5,Veg,https://loremflickr.com/600/400/Burger
+296,Ice Cream,Chinese,106,4.6,Non-Veg,"https://loremflickr.com/600/400/Ice,Cream"
+297,Burger,American,416,4.2,Non-Veg,https://loremflickr.com/600/400/Burger
+298,Fried Rice,American,216,4.0,Veg,"https://loremflickr.com/600/400/Fried,Rice"
+299,Rasgulla,Italian,353,4.2,Veg,https://loremflickr.com/600/400/Rasgulla
+300,Salad,American,383,4.7,Veg,https://loremflickr.com/600/400/Salad
+301,Gulab Jamun,Indian,256,4.7,Veg,"https://loremflickr.com/600/400/Gulab,Jamun"
+302,Brownie,Italian,106,4.7,Non-Veg,https://loremflickr.com/600/400/Brownie
+303,Samosa,Indian,122,3.7,Veg,https://loremflickr.com/600/400/Samosa
+304,Pizza,American,433,4.5,Veg,https://loremflickr.com/600/400/Pizza
+305,Brownie,American,365,4.6,Non-Veg,https://loremflickr.com/600/400/Brownie
+306,Ice Cream,American,349,4.0,Veg,"https://loremflickr.com/600/400/Ice,Cream"
+307,Brownie,American,115,4.9,Veg,https://loremflickr.com/600/400/Brownie
+308,Sandwich,Chinese,493,4.7,Non-Veg,https://loremflickr.com/600/400/Sandwich
+309,Burger,Indian,335,3.8,Veg,https://loremflickr.com/600/400/Burger
+310,Chowmein,Chinese,243,4.5,Non-Veg,https://loremflickr.com/600/400/Chowmein
+311,Ice Cream,American,306,4.6,Non-Veg,"https://loremflickr.com/600/400/Ice,Cream"
+312,Pizza,Chinese,429,4.6,Non-Veg,https://loremflickr.com/600/400/Pizza
+313,Pasta,Indian,193,4.2,Non-Veg,https://loremflickr.com/600/400/Pasta
+314,Ice Cream,Chinese,386,4.5,Non-Veg,"https://loremflickr.com/600/400/Ice,Cream"
+315,Fried Rice,Italian,158,5.0,Non-Veg,"https://loremflickr.com/600/400/Fried,Rice"
+316,Sandwich,American,223,3.5,Non-Veg,https://loremflickr.com/600/400/Sandwich
+317,Pizza,Indian,384,4.7,Non-Veg,https://loremflickr.com/600/400/Pizza
+318,Pasta,Italian,491,4.3,Veg,https://loremflickr.com/600/400/Pasta
+319,Idli,Indian,347,3.9,Non-Veg,https://loremflickr.com/600/400/Idli
+320,Paneer Tikka,Indian,473,4.6,Veg,"https://loremflickr.com/600/400/Paneer,Tikka"
+321,Spring Roll,Chinese,187,3.9,Veg,"https://loremflickr.com/600/400/Spring,Roll"
+322,Dosa,Indian,246,4.6,Veg,https://loremflickr.com/600/400/Dosa
+323,Butter Chicken,American,366,4.7,Non-Veg,"https://loremflickr.com/600/400/Butter,Chicken"
+324,Paneer Tikka,American,465,4.9,Non-Veg,"https://loremflickr.com/600/400/Paneer,Tikka"
+325,Chowmein,Indian,448,4.8,Non-Veg,https://loremflickr.com/600/400/Chowmein
+326,Noodles,American,437,4.4,Non-Veg,https://loremflickr.com/600/400/Noodles
+327,Spring Roll,Indian,453,4.0,Non-Veg,"https://loremflickr.com/600/400/Spring,Roll"
+328,Brownie,Chinese,496,4.1,Veg,https://loremflickr.com/600/400/Brownie
+329,Dosa,American,181,3.8,Non-Veg,https://loremflickr.com/600/400/Dosa
+330,Soup,Chinese,333,4.8,Non-Veg,https://loremflickr.com/600/400/Soup
+331,Fried Rice,Italian,376,3.7,Veg,"https://loremflickr.com/600/400/Fried,Rice"
+332,Fried Rice,Italian,258,4.8,Non-Veg,"https://loremflickr.com/600/400/Fried,Rice"
+333,Ice Cream,Indian,105,3.6,Non-Veg,"https://loremflickr.com/600/400/Ice,Cream"
+334,Spring Roll,Italian,203,4.8,Non-Veg,"https://loremflickr.com/600/400/Spring,Roll"
+335,Butter Chicken,Indian,290,3.9,Non-Veg,"https://loremflickr.com/600/400/Butter,Chicken"
+336,Noodles,Chinese,294,4.3,Veg,https://loremflickr.com/600/400/Noodles
+337,Salad,American,222,4.8,Veg,https://loremflickr.com/600/400/Salad
+338,Brownie,Indian,352,3.8,Non-Veg,https://loremflickr.com/600/400/Brownie
+339,Sandwich,Italian,435,4.7,Veg,https://loremflickr.com/600/400/Sandwich
+340,Ice Cream,Indian,302,4.6,Veg,"https://loremflickr.com/600/400/Ice,Cream"
+341,Idli,Indian,328,5.0,Non-Veg,https://loremflickr.com/600/400/Idli
+342,Rasgulla,Italian,267,3.7,Veg,https://loremflickr.com/600/400/Rasgulla
+343,Sandwich,Chinese,424,4.8,Non-Veg,https://loremflickr.com/600/400/Sandwich
+344,Pizza,Chinese,451,4.0,Veg,https://loremflickr.com/600/400/Pizza
+345,Sandwich,Italian,480,3.8,Veg,https://loremflickr.com/600/400/Sandwich
+346,Spring Roll,Italian,452,4.8,Veg,"https://loremflickr.com/600/400/Spring,Roll"
+347,Noodles,Italian,124,4.8,Veg,https://loremflickr.com/600/400/Noodles
+348,Brownie,Chinese,296,3.7,Non-Veg,https://loremflickr.com/600/400/Brownie
+349,Chowmein,Italian,358,4.4,Non-Veg,https://loremflickr.com/600/400/Chowmein
+350,Pizza,American,325,3.7,Veg,https://loremflickr.com/600/400/Pizza
+351,Sandwich,Indian,328,4.9,Non-Veg,https://loremflickr.com/600/400/Sandwich
+352,Pizza,Indian,166,3.8,Veg,https://loremflickr.com/600/400/Pizza
+353,Noodles,Italian,403,3.7,Non-Veg,https://loremflickr.com/600/400/Noodles
+354,Butter Chicken,American,209,3.5,Non-Veg,"https://loremflickr.com/600/400/Butter,Chicken"
+355,Chowmein,American,273,3.9,Non-Veg,https://loremflickr.com/600/400/Chowmein
+356,Spring Roll,Indian,235,4.4,Non-Veg,"https://loremflickr.com/600/400/Spring,Roll"
+357,Samosa,Chinese,394,4.4,Non-Veg,https://loremflickr.com/600/400/Samosa
+358,Idli,American,175,3.7,Veg,https://loremflickr.com/600/400/Idli
+359,Fried Rice,Chinese,144,4.2,Non-Veg,"https://loremflickr.com/600/400/Fried,Rice"
+360,Gulab Jamun,Indian,245,3.7,Veg,"https://loremflickr.com/600/400/Gulab,Jamun"
+361,Pasta,Indian,477,3.9,Non-Veg,https://loremflickr.com/600/400/Pasta
+362,Burger,Chinese,457,4.6,Non-Veg,https://loremflickr.com/600/400/Burger
+363,Biryani,American,405,4.5,Non-Veg,https://loremflickr.com/600/400/Biryani
+364,Rasgulla,Italian,227,4.8,Non-Veg,https://loremflickr.com/600/400/Rasgulla
+365,Chowmein,American,280,4.1,Non-Veg,https://loremflickr.com/600/400/Chowmein
+366,Samosa,Italian,267,3.7,Veg,https://loremflickr.com/600/400/Samosa
+367,Noodles,Chinese,278,3.9,Veg,https://loremflickr.com/600/400/Noodles
+368,Paneer Tikka,Italian,173,3.8,Veg,"https://loremflickr.com/600/400/Paneer,Tikka"
+369,Idli,Indian,442,3.5,Veg,https://loremflickr.com/600/400/Idli
+370,Paneer Tikka,American,302,4.0,Non-Veg,"https://loremflickr.com/600/400/Paneer,Tikka"
+371,Pizza,Italian,320,3.5,Veg,https://loremflickr.com/600/400/Pizza
+372,Salad,Chinese,106,3.8,Non-Veg,https://loremflickr.com/600/400/Salad
+373,Noodles,Indian,299,5.0,Non-Veg,https://loremflickr.com/600/400/Noodles
+374,Idli,Chinese,349,3.9,Veg,https://loremflickr.com/600/400/Idli
+375,Butter Chicken,Chinese,213,3.5,Non-Veg,"https://loremflickr.com/600/400/Butter,Chicken"
+376,Brownie,Italian,335,3.7,Non-Veg,https://loremflickr.com/600/400/Brownie
+377,Gulab Jamun,Chinese,439,3.8,Veg,"https://loremflickr.com/600/400/Gulab,Jamun"
+378,Burger,American,192,4.1,Non-Veg,https://loremflickr.com/600/400/Burger
+379,Paneer Tikka,Italian,424,4.2,Non-Veg,"https://loremflickr.com/600/400/Paneer,Tikka"
+380,Spring Roll,Italian,482,3.5,Veg,"https://loremflickr.com/600/400/Spring,Roll"
+381,Soup,American,311,4.9,Non-Veg,https://loremflickr.com/600/400/Soup
+382,Gulab Jamun,American,153,3.6,Non-Veg,"https://loremflickr.com/600/400/Gulab,Jamun"
+383,Brownie,American,177,4.9,Non-Veg,https://loremflickr.com/600/400/Brownie
+384,Gulab Jamun,Italian,408,4.6,Veg,"https://loremflickr.com/600/400/Gulab,Jamun"
+385,Idli,American,144,4.0,Non-Veg,https://loremflickr.com/600/400/Idli
+386,Brownie,American,351,4.5,Veg,https://loremflickr.com/600/400/Brownie
+387,Soup,American,336,3.8,Veg,https://loremflickr.com/600/400/Soup
+388,Fried Rice,Italian,355,4.7,Non-Veg,"https://loremflickr.com/600/400/Fried,Rice"
+389,Fried Rice,Indian,353,3.9,Non-Veg,"https://loremflickr.com/600/400/Fried,Rice"
+390,Fried Rice,Italian,251,3.6,Non-Veg,"https://loremflickr.com/600/400/Fried,Rice"
+391,Salad,American,165,4.2,Veg,https://loremflickr.com/600/400/Salad
+392,Rasgulla,Indian,128,4.4,Veg,https://loremflickr.com/600/400/Rasgulla
+393,Pasta,Indian,198,3.9,Veg,https://loremflickr.com/600/400/Pasta
+394,Biryani,Italian,111,4.3,Non-Veg,https://loremflickr.com/600/400/Biryani
+395,Noodles,Italian,111,4.7,Veg,https://loremflickr.com/600/400/Noodles
+396,Chowmein,Chinese,464,4.1,Veg,https://loremflickr.com/600/400/Chowmein
+397,Samosa,Indian,445,3.7,Veg,https://loremflickr.com/600/400/Samosa
+398,Samosa,American,266,4.4,Veg,https://loremflickr.com/600/400/Samosa
+399,Sandwich,American,214,4.1,Non-Veg,https://loremflickr.com/600/400/Sandwich
+400,Sandwich,American,364,3.9,Non-Veg,https://loremflickr.com/600/400/Sandwich
+401,Samosa,American,302,3.5,Veg,https://loremflickr.com/600/400/Samosa
+402,Paneer Tikka,American,495,4.1,Veg,"https://loremflickr.com/600/400/Paneer,Tikka"
+403,Gulab Jamun,Italian,286,3.8,Veg,"https://loremflickr.com/600/400/Gulab,Jamun"
+404,Rasgulla,Indian,201,3.5,Non-Veg,https://loremflickr.com/600/400/Rasgulla
+405,Dosa,American,441,3.6,Veg,https://loremflickr.com/600/400/Dosa
+406,Fried Rice,Italian,217,4.0,Veg,"https://loremflickr.com/600/400/Fried,Rice"
+407,Burger,American,301,3.7,Non-Veg,https://loremflickr.com/600/400/Burger
+408,Fried Rice,American,341,4.5,Non-Veg,"https://loremflickr.com/600/400/Fried,Rice"
+409,Butter Chicken,Chinese,422,3.5,Non-Veg,"https://loremflickr.com/600/400/Butter,Chicken"
+410,Samosa,American,255,4.9,Non-Veg,https://loremflickr.com/600/400/Samosa
+411,Pizza,Italian,100,3.7,Non-Veg,https://loremflickr.com/600/400/Pizza
+412,Pasta,Italian,126,4.3,Non-Veg,https://loremflickr.com/600/400/Pasta
+413,Brownie,Chinese,288,4.6,Veg,https://loremflickr.com/600/400/Brownie
+414,Pasta,Italian,323,4.5,Non-Veg,https://loremflickr.com/600/400/Pasta
+415,Salad,Chinese,387,4.4,Non-Veg,https://loremflickr.com/600/400/Salad
+416,Salad,Indian,274,3.7,Veg,https://loremflickr.com/600/400/Salad
+417,Soup,Indian,445,4.4,Non-Veg,https://loremflickr.com/600/400/Soup
+418,Sandwich,Indian,331,4.1,Non-Veg,https://loremflickr.com/600/400/Sandwich
+419,Fried Rice,Indian,151,4.0,Veg,"https://loremflickr.com/600/400/Fried,Rice"
+420,Butter Chicken,Chinese,209,3.8,Veg,"https://loremflickr.com/600/400/Butter,Chicken"
+421,Biryani,Indian,141,4.5,Veg,https://loremflickr.com/600/400/Biryani
+422,Brownie,Indian,174,3.9,Non-Veg,https://loremflickr.com/600/400/Brownie
+423,Pasta,Chinese,405,3.5,Non-Veg,https://loremflickr.com/600/400/Pasta
+424,Salad,Indian,401,4.7,Non-Veg,https://loremflickr.com/600/400/Salad
+425,Chowmein,Chinese,450,3.6,Non-Veg,https://loremflickr.com/600/400/Chowmein
+426,Rasgulla,American,252,5.0,Non-Veg,https://loremflickr.com/600/400/Rasgulla
+427,Rasgulla,Indian,248,4.1,Non-Veg,https://loremflickr.com/600/400/Rasgulla
+428,Pasta,Italian,306,4.1,Non-Veg,https://loremflickr.com/600/400/Pasta
+429,Idli,Chinese,312,4.8,Veg,https://loremflickr.com/600/400/Idli
+430,Dosa,Indian,108,3.9,Veg,https://loremflickr.com/600/400/Dosa
+431,Rasgulla,Chinese,423,5.0,Veg,https://loremflickr.com/600/400/Rasgulla
+432,Chowmein,American,336,5.0,Veg,https://loremflickr.com/600/400/Chowmein
+433,Idli,Chinese,394,3.9,Non-Veg,https://loremflickr.com/600/400/Idli
+434,Pasta,Indian,317,4.9,Non-Veg,https://loremflickr.com/600/400/Pasta
+435,Brownie,Indian,428,4.1,Veg,https://loremflickr.com/600/400/Brownie
+436,Spring Roll,American,496,3.9,Veg,"https://loremflickr.com/600/400/Spring,Roll"
+437,Butter Chicken,American,186,3.7,Veg,"https://loremflickr.com/600/400/Butter,Chicken"
+438,Brownie,Indian,349,4.2,Veg,https://loremflickr.com/600/400/Brownie
+439,Gulab Jamun,American,415,3.9,Non-Veg,"https://loremflickr.com/600/400/Gulab,Jamun"
+440,Brownie,Indian,106,3.6,Non-Veg,https://loremflickr.com/600/400/Brownie
+441,Noodles,Italian,342,4.0,Veg,https://loremflickr.com/600/400/Noodles
+442,Samosa,Indian,216,3.5,Non-Veg,https://loremflickr.com/600/400/Samosa
+443,Sandwich,American,477,4.1,Veg,https://loremflickr.com/600/400/Sandwich
+444,Pizza,Italian,351,4.7,Veg,https://loremflickr.com/600/400/Pizza
+445,Sandwich,Chinese,149,3.8,Veg,https://loremflickr.com/600/400/Sandwich
+446,Soup,Indian,490,4.6,Non-Veg,https://loremflickr.com/600/400/Soup
+447,Salad,American,351,4.0,Non-Veg,https://loremflickr.com/600/400/Salad
+448,Spring Roll,Chinese,447,4.1,Non-Veg,"https://loremflickr.com/600/400/Spring,Roll"
+449,Pizza,Indian,292,3.9,Non-Veg,https://loremflickr.com/600/400/Pizza
+450,Noodles,American,251,4.1,Veg,https://loremflickr.com/600/400/Noodles
+451,Paneer Tikka,American,478,3.7,Non-Veg,"https://loremflickr.com/600/400/Paneer,Tikka"
+452,Ice Cream,Chinese,147,4.2,Non-Veg,"https://loremflickr.com/600/400/Ice,Cream"
+453,Chowmein,American,315,3.9,Non-Veg,https://loremflickr.com/600/400/Chowmein
+454,Soup,American,414,3.9,Non-Veg,https://loremflickr.com/600/400/Soup
+455,Ice Cream,American,431,4.9,Veg,"https://loremflickr.com/600/400/Ice,Cream"
+456,Samosa,Indian,342,4.1,Non-Veg,https://loremflickr.com/600/400/Samosa
+457,Butter Chicken,Indian,162,4.1,Veg,"https://loremflickr.com/600/400/Butter,Chicken"
+458,Gulab Jamun,American,364,3.6,Non-Veg,"https://loremflickr.com/600/400/Gulab,Jamun"
+459,Brownie,Italian,325,4.4,Non-Veg,https://loremflickr.com/600/400/Brownie
+460,Samosa,Italian,111,4.0,Non-Veg,https://loremflickr.com/600/400/Samosa
+461,Gulab Jamun,American,477,4.3,Non-Veg,"https://loremflickr.com/600/400/Gulab,Jamun"
+462,Dosa,Chinese,101,4.2,Veg,https://loremflickr.com/600/400/Dosa
+463,Brownie,Chinese,230,4.5,Veg,https://loremflickr.com/600/400/Brownie
+464,Salad,Italian,422,4.3,Veg,https://loremflickr.com/600/400/Salad
+465,Butter Chicken,Indian,168,4.1,Veg,"https://loremflickr.com/600/400/Butter,Chicken"
+466,Spring Roll,Italian,450,4.8,Non-Veg,"https://loremflickr.com/600/400/Spring,Roll"
+467,Butter Chicken,Indian,220,4.6,Veg,"https://loremflickr.com/600/400/Butter,Chicken"
+468,Chowmein,Italian,123,4.7,Non-Veg,https://loremflickr.com/600/400/Chowmein
+469,Pizza,Chinese,434,4.2,Veg,https://loremflickr.com/600/400/Pizza
+470,Rasgulla,Chinese,255,3.6,Non-Veg,https://loremflickr.com/600/400/Rasgulla
+471,Noodles,Chinese,288,4.5,Veg,https://loremflickr.com/600/400/Noodles
+472,Spring Roll,Chinese,403,3.5,Non-Veg,"https://loremflickr.com/600/400/Spring,Roll"
+473,Salad,Indian,223,4.4,Veg,https://loremflickr.com/600/400/Salad
+474,Chowmein,Indian,321,3.8,Non-Veg,https://loremflickr.com/600/400/Chowmein
+475,Idli,Italian,318,5.0,Veg,https://loremflickr.com/600/400/Idli
+476,Rasgulla,Indian,141,4.1,Veg,https://loremflickr.com/600/400/Rasgulla
+477,Samosa,Chinese,205,3.5,Veg,https://loremflickr.com/600/400/Samosa
+478,Noodles,Chinese,264,4.6,Non-Veg,https://loremflickr.com/600/400/Noodles
+479,Chowmein,Indian,141,4.5,Veg,https://loremflickr.com/600/400/Chowmein
+480,Pasta,Indian,131,4.8,Non-Veg,https://loremflickr.com/600/400/Pasta
+481,Idli,Indian,152,4.7,Veg,https://loremflickr.com/600/400/Idli
+482,Paneer Tikka,Indian,110,4.1,Veg,"https://loremflickr.com/600/400/Paneer,Tikka"
+483,Dosa,American,128,4.2,Non-Veg,https://loremflickr.com/600/400/Dosa
+484,Pizza,Indian,241,3.6,Non-Veg,https://loremflickr.com/600/400/Pizza
+485,Noodles,American,201,3.7,Non-Veg,https://loremflickr.com/600/400/Noodles
+486,Rasgulla,American,214,4.6,Non-Veg,https://loremflickr.com/600/400/Rasgulla
+487,Sandwich,Italian,423,3.6,Veg,https://loremflickr.com/600/400/Sandwich
+488,Fried Rice,American,283,3.6,Veg,"https://loremflickr.com/600/400/Fried,Rice"
+489,Brownie,Indian,151,3.7,Veg,https://loremflickr.com/600/400/Brownie
+490,Paneer Tikka,Chinese,156,4.3,Veg,"https://loremflickr.com/600/400/Paneer,Tikka"
+491,Fried Rice,Indian,191,4.2,Non-Veg,"https://loremflickr.com/600/400/Fried,Rice"
+492,Chowmein,Chinese,252,3.7,Non-Veg,https://loremflickr.com/600/400/Chowmein
+493,Chowmein,Chinese,149,3.7,Veg,https://loremflickr.com/600/400/Chowmein
+494,Butter Chicken,Chinese,205,4.2,Veg,"https://loremflickr.com/600/400/Butter,Chicken"
+495,Soup,American,245,4.1,Veg,https://loremflickr.com/600/400/Soup
+496,Dosa,Italian,240,4.6,Veg,https://loremflickr.com/600/400/Dosa
+497,Brownie,Chinese,485,4.5,Non-Veg,https://loremflickr.com/600/400/Brownie
+498,Fried Rice,American,183,3.5,Non-Veg,"https://loremflickr.com/600/400/Fried,Rice"
+499,Brownie,Italian,450,3.6,Non-Veg,https://loremflickr.com/600/400/Brownie
+500,Fried Rice,American,230,4.5,Veg,"https://loremflickr.com/600/400/Fried,Rice"
+501,Soup,Italian,312,4.2,Veg,https://loremflickr.com/600/400/Soup
+502,Brownie,Chinese,187,3.8,Non-Veg,https://loremflickr.com/600/400/Brownie
+503,Dosa,Indian,445,3.6,Veg,https://loremflickr.com/600/400/Dosa
+504,Noodles,Indian,267,4.9,Non-Veg,https://loremflickr.com/600/400/Noodles
+505,Brownie,American,428,4.2,Non-Veg,https://loremflickr.com/600/400/Brownie
+506,Rasgulla,Italian,129,3.7,Veg,https://loremflickr.com/600/400/Rasgulla
+507,Butter Chicken,Italian,304,3.8,Non-Veg,"https://loremflickr.com/600/400/Butter,Chicken"
+508,Pasta,Indian,421,4.5,Veg,https://loremflickr.com/600/400/Pasta
+509,Fried Rice,Indian,291,4.0,Non-Veg,"https://loremflickr.com/600/400/Fried,Rice"
+510,Salad,Chinese,379,4.4,Veg,https://loremflickr.com/600/400/Salad
+511,Noodles,American,235,4.2,Veg,https://loremflickr.com/600/400/Noodles
+512,Chowmein,Italian,418,3.9,Non-Veg,https://loremflickr.com/600/400/Chowmein
+513,Salad,Indian,182,3.7,Veg,https://loremflickr.com/600/400/Salad
+514,Ice Cream,Chinese,211,4.3,Non-Veg,"https://loremflickr.com/600/400/Ice,Cream"
+515,Sandwich,Indian,491,5.0,Non-Veg,https://loremflickr.com/600/400/Sandwich
+516,Spring Roll,American,493,4.5,Veg,"https://loremflickr.com/600/400/Spring,Roll"
+517,Rasgulla,Italian,349,4.6,Non-Veg,https://loremflickr.com/600/400/Rasgulla
+518,Dosa,Chinese,417,4.1,Non-Veg,https://loremflickr.com/600/400/Dosa
+519,Biryani,Indian,407,4.9,Non-Veg,https://loremflickr.com/600/400/Biryani
+520,Brownie,Chinese,197,4.3,Non-Veg,https://loremflickr.com/600/400/Brownie
+521,Chowmein,Italian,234,4.0,Veg,https://loremflickr.com/600/400/Chowmein
+522,Burger,American,126,4.2,Veg,https://loremflickr.com/600/400/Burger
+523,Dosa,Italian,106,4.1,Non-Veg,https://loremflickr.com/600/400/Dosa
+524,Salad,Indian,477,4.1,Veg,https://loremflickr.com/600/400/Salad
+525,Burger,Chinese,254,4.8,Veg,https://loremflickr.com/600/400/Burger
+526,Idli,Italian,366,3.8,Veg,https://loremflickr.com/600/400/Idli
+527,Dosa,Indian,376,3.6,Non-Veg,https://loremflickr.com/600/400/Dosa
+528,Butter Chicken,American,197,4.3,Non-Veg,"https://loremflickr.com/600/400/Butter,Chicken"
+529,Salad,Indian,159,4.4,Veg,https://loremflickr.com/600/400/Salad
+530,Brownie,Indian,498,4.6,Non-Veg,https://loremflickr.com/600/400/Brownie
+531,Pasta,Indian,214,3.9,Non-Veg,https://loremflickr.com/600/400/Pasta
+532,Samosa,American,215,4.8,Veg,https://loremflickr.com/600/400/Samosa
+533,Burger,American,351,4.6,Non-Veg,https://loremflickr.com/600/400/Burger
+534,Brownie,American,464,3.8,Non-Veg,https://loremflickr.com/600/400/Brownie
+535,Spring Roll,Indian,244,5.0,Non-Veg,"https://loremflickr.com/600/400/Spring,Roll"
+536,Paneer Tikka,Indian,411,3.5,Non-Veg,"https://loremflickr.com/600/400/Paneer,Tikka"
+537,Gulab Jamun,Chinese,240,3.6,Veg,"https://loremflickr.com/600/400/Gulab,Jamun"
+538,Burger,Italian,297,4.4,Veg,https://loremflickr.com/600/400/Burger
+539,Brownie,Chinese,399,4.3,Non-Veg,https://loremflickr.com/600/400/Brownie
+540,Burger,Indian,132,4.9,Non-Veg,https://loremflickr.com/600/400/Burger
+541,Idli,Italian,238,4.1,Non-Veg,https://loremflickr.com/600/400/Idli
+542,Noodles,Chinese,483,4.4,Veg,https://loremflickr.com/600/400/Noodles
+543,Gulab Jamun,Chinese,328,3.9,Veg,"https://loremflickr.com/600/400/Gulab,Jamun"
+544,Biryani,Chinese,305,4.4,Veg,https://loremflickr.com/600/400/Biryani
+545,Soup,Indian,476,4.6,Non-Veg,https://loremflickr.com/600/400/Soup
+546,Paneer Tikka,American,297,4.6,Non-Veg,"https://loremflickr.com/600/400/Paneer,Tikka"
+547,Ice Cream,Indian,163,3.5,Non-Veg,"https://loremflickr.com/600/400/Ice,Cream"
+548,Biryani,American,488,4.8,Non-Veg,https://loremflickr.com/600/400/Biryani
+549,Dosa,Italian,236,3.7,Veg,https://loremflickr.com/600/400/Dosa
+550,Samosa,Italian,267,3.8,Non-Veg,https://loremflickr.com/600/400/Samosa
+551,Ice Cream,American,404,4.8,Veg,"https://loremflickr.com/600/400/Ice,Cream"
+552,Paneer Tikka,Italian,265,5.0,Non-Veg,"https://loremflickr.com/600/400/Paneer,Tikka"
+553,Ice Cream,Italian,342,4.3,Veg,"https://loremflickr.com/600/400/Ice,Cream"
+554,Samosa,Italian,199,4.2,Non-Veg,https://loremflickr.com/600/400/Samosa
+555,Fried Rice,Indian,476,4.3,Veg,"https://loremflickr.com/600/400/Fried,Rice"
+556,Pasta,Chinese,242,4.2,Veg,https://loremflickr.com/600/400/Pasta
+557,Biryani,Indian,168,4.7,Non-Veg,https://loremflickr.com/600/400/Biryani
+558,Pasta,Indian,272,3.6,Non-Veg,https://loremflickr.com/600/400/Pasta
+559,Burger,Indian,333,4.5,Non-Veg,https://loremflickr.com/600/400/Burger
+560,Rasgulla,Chinese,384,4.5,Veg,https://loremflickr.com/600/400/Rasgulla
+561,Salad,Chinese,325,4.2,Veg,https://loremflickr.com/600/400/Salad
+562,Fried Rice,Chinese,112,4.6,Non-Veg,"https://loremflickr.com/600/400/Fried,Rice"
+563,Salad,Italian,188,4.3,Veg,https://loremflickr.com/600/400/Salad
+564,Dosa,Chinese,219,5.0,Veg,https://loremflickr.com/600/400/Dosa
+565,Pasta,Italian,418,4.0,Non-Veg,https://loremflickr.com/600/400/Pasta
+566,Idli,Chinese,216,4.7,Non-Veg,https://loremflickr.com/600/400/Idli
+567,Fried Rice,American,338,3.8,Veg,"https://loremflickr.com/600/400/Fried,Rice"
+568,Biryani,Italian,409,3.8,Non-Veg,https://loremflickr.com/600/400/Biryani
+569,Dosa,Italian,283,4.4,Non-Veg,https://loremflickr.com/600/400/Dosa
+570,Gulab Jamun,Chinese,493,3.9,Non-Veg,"https://loremflickr.com/600/400/Gulab,Jamun"
+571,Dosa,Italian,289,4.9,Veg,https://loremflickr.com/600/400/Dosa
+572,Idli,Indian,475,4.7,Veg,https://loremflickr.com/600/400/Idli
+573,Brownie,American,489,3.7,Non-Veg,https://loremflickr.com/600/400/Brownie
+574,Fried Rice,Italian,285,4.4,Non-Veg,"https://loremflickr.com/600/400/Fried,Rice"
+575,Spring Roll,Indian,314,3.9,Non-Veg,"https://loremflickr.com/600/400/Spring,Roll"
+576,Dosa,Indian,403,4.3,Non-Veg,https://loremflickr.com/600/400/Dosa
+577,Pasta,American,156,3.8,Non-Veg,https://loremflickr.com/600/400/Pasta
+578,Samosa,Italian,436,4.5,Veg,https://loremflickr.com/600/400/Samosa
+579,Chowmein,Chinese,276,4.8,Veg,https://loremflickr.com/600/400/Chowmein
+580,Dosa,Indian,283,3.7,Non-Veg,https://loremflickr.com/600/400/Dosa
+581,Spring Roll,Italian,434,3.7,Non-Veg,"https://loremflickr.com/600/400/Spring,Roll"
+582,Brownie,Italian,350,3.6,Veg,https://loremflickr.com/600/400/Brownie
+583,Burger,Italian,219,4.2,Veg,https://loremflickr.com/600/400/Burger
+584,Dosa,American,366,3.6,Non-Veg,https://loremflickr.com/600/400/Dosa
+585,Salad,Indian,166,4.0,Veg,https://loremflickr.com/600/400/Salad
+586,Soup,American,279,3.8,Non-Veg,https://loremflickr.com/600/400/Soup
+587,Chowmein,American,281,4.6,Non-Veg,https://loremflickr.com/600/400/Chowmein
+588,Ice Cream,American,301,5.0,Veg,"https://loremflickr.com/600/400/Ice,Cream"
+589,Soup,Chinese,338,3.7,Veg,https://loremflickr.com/600/400/Soup
+590,Salad,Italian,415,4.8,Non-Veg,https://loremflickr.com/600/400/Salad
+591,Samosa,Italian,206,4.7,Non-Veg,https://loremflickr.com/600/400/Samosa
+592,Idli,American,271,4.0,Veg,https://loremflickr.com/600/400/Idli
+593,Soup,Italian,207,3.8,Veg,https://loremflickr.com/600/400/Soup
+594,Fried Rice,American,445,4.5,Veg,"https://loremflickr.com/600/400/Fried,Rice"
+595,Brownie,Chinese,366,4.6,Non-Veg,https://loremflickr.com/600/400/Brownie
+596,Paneer Tikka,Italian,212,3.7,Veg,"https://loremflickr.com/600/400/Paneer,Tikka"
+597,Samosa,Italian,499,3.6,Veg,https://loremflickr.com/600/400/Samosa
+598,Pasta,Chinese,353,5.0,Veg,https://loremflickr.com/600/400/Pasta
+599,Burger,American,363,4.9,Non-Veg,https://loremflickr.com/600/400/Burger
+600,Idli,Italian,477,4.3,Non-Veg,https://loremflickr.com/600/400/Idli
+601,Brownie,American,126,4.2,Veg,https://loremflickr.com/600/400/Brownie
+602,Rasgulla,Italian,423,3.8,Non-Veg,https://loremflickr.com/600/400/Rasgulla
+603,Noodles,Italian,332,3.7,Non-Veg,https://loremflickr.com/600/400/Noodles
+604,Pizza,American,365,4.4,Veg,https://loremflickr.com/600/400/Pizza
+605,Chowmein,American,428,4.1,Non-Veg,https://loremflickr.com/600/400/Chowmein
+606,Pizza,Italian,488,3.7,Non-Veg,https://loremflickr.com/600/400/Pizza
+607,Biryani,Chinese,451,3.8,Veg,https://loremflickr.com/600/400/Biryani
+608,Salad,Italian,236,4.0,Non-Veg,https://loremflickr.com/600/400/Salad
+609,Idli,Indian,182,4.3,Non-Veg,https://loremflickr.com/600/400/Idli
+610,Idli,Chinese,443,4.7,Non-Veg,https://loremflickr.com/600/400/Idli
+611,Gulab Jamun,Italian,219,4.5,Veg,"https://loremflickr.com/600/400/Gulab,Jamun"
+612,Chowmein,Chinese,148,4.4,Non-Veg,https://loremflickr.com/600/400/Chowmein
+613,Ice Cream,Indian,298,4.6,Non-Veg,"https://loremflickr.com/600/400/Ice,Cream"
+614,Rasgulla,Indian,497,4.6,Non-Veg,https://loremflickr.com/600/400/Rasgulla
+615,Pasta,American,155,3.7,Non-Veg,https://loremflickr.com/600/400/Pasta
+616,Noodles,Chinese,359,4.4,Non-Veg,https://loremflickr.com/600/400/Noodles
+617,Samosa,Chinese,130,4.9,Veg,https://loremflickr.com/600/400/Samosa
+618,Salad,Indian,394,3.6,Non-Veg,https://loremflickr.com/600/400/Salad
+619,Chowmein,Indian,388,4.5,Non-Veg,https://loremflickr.com/600/400/Chowmein
+620,Paneer Tikka,Indian,306,4.6,Non-Veg,"https://loremflickr.com/600/400/Paneer,Tikka"
+621,Burger,Italian,147,4.1,Veg,https://loremflickr.com/600/400/Burger
+622,Brownie,Italian,282,4.2,Non-Veg,https://loremflickr.com/600/400/Brownie
+623,Butter Chicken,American,104,4.4,Veg,"https://loremflickr.com/600/400/Butter,Chicken"
+624,Biryani,Chinese,341,4.6,Veg,https://loremflickr.com/600/400/Biryani
+625,Salad,American,411,4.6,Veg,https://loremflickr.com/600/400/Salad
+626,Pasta,American,324,4.4,Non-Veg,https://loremflickr.com/600/400/Pasta
+627,Pasta,American,297,4.1,Non-Veg,https://loremflickr.com/600/400/Pasta
+628,Noodles,American,435,4.3,Veg,https://loremflickr.com/600/400/Noodles
+629,Salad,American,357,3.7,Veg,https://loremflickr.com/600/400/Salad
+630,Pasta,Italian,371,4.3,Veg,https://loremflickr.com/600/400/Pasta
+631,Chowmein,Chinese,269,3.9,Veg,https://loremflickr.com/600/400/Chowmein
+632,Soup,American,347,4.9,Non-Veg,https://loremflickr.com/600/400/Soup
+633,Brownie,Italian,210,4.1,Non-Veg,https://loremflickr.com/600/400/Brownie
+634,Burger,American,294,5.0,Veg,https://loremflickr.com/600/400/Burger
+635,Fried Rice,Italian,368,4.0,Veg,"https://loremflickr.com/600/400/Fried,Rice"
+636,Dosa,Indian,255,4.6,Non-Veg,https://loremflickr.com/600/400/Dosa
+637,Dosa,Chinese,134,4.8,Non-Veg,https://loremflickr.com/600/400/Dosa
+638,Brownie,Italian,253,4.4,Veg,https://loremflickr.com/600/400/Brownie
+639,Dosa,Indian,126,4.0,Veg,https://loremflickr.com/600/400/Dosa
+640,Rasgulla,Indian,370,4.8,Non-Veg,https://loremflickr.com/600/400/Rasgulla
+641,Sandwich,American,212,4.9,Non-Veg,https://loremflickr.com/600/400/Sandwich
+642,Rasgulla,Italian,152,4.7,Veg,https://loremflickr.com/600/400/Rasgulla
+643,Pizza,American,415,4.9,Veg,https://loremflickr.com/600/400/Pizza
+644,Burger,Chinese,304,3.8,Veg,https://loremflickr.com/600/400/Burger
+645,Pizza,Indian,149,4.2,Non-Veg,https://loremflickr.com/600/400/Pizza
+646,Pasta,Italian,216,4.0,Non-Veg,https://loremflickr.com/600/400/Pasta
+647,Burger,Italian,330,4.1,Veg,https://loremflickr.com/600/400/Burger
+648,Chowmein,Indian,187,4.7,Veg,https://loremflickr.com/600/400/Chowmein
+649,Butter Chicken,American,343,3.9,Non-Veg,"https://loremflickr.com/600/400/Butter,Chicken"
+650,Idli,American,274,3.5,Veg,https://loremflickr.com/600/400/Idli
+651,Rasgulla,Italian,460,4.5,Non-Veg,https://loremflickr.com/600/400/Rasgulla
+652,Rasgulla,Indian,318,4.7,Veg,https://loremflickr.com/600/400/Rasgulla
+653,Ice Cream,Italian,446,4.2,Veg,"https://loremflickr.com/600/400/Ice,Cream"
+654,Pasta,Indian,282,3.6,Veg,https://loremflickr.com/600/400/Pasta
+655,Samosa,Italian,382,4.2,Veg,https://loremflickr.com/600/400/Samosa
+656,Dosa,Chinese,205,3.6,Veg,https://loremflickr.com/600/400/Dosa
+657,Samosa,Italian,224,4.2,Veg,https://loremflickr.com/600/400/Samosa
+658,Brownie,American,273,3.5,Non-Veg,https://loremflickr.com/600/400/Brownie
+659,Dosa,Chinese,222,4.9,Non-Veg,https://loremflickr.com/600/400/Dosa
+660,Idli,Indian,467,4.0,Veg,https://loremflickr.com/600/400/Idli
+661,Burger,Indian,303,4.2,Veg,https://loremflickr.com/600/400/Burger
+662,Salad,Chinese,281,4.0,Non-Veg,https://loremflickr.com/600/400/Salad
+663,Soup,Italian,188,4.8,Non-Veg,https://loremflickr.com/600/400/Soup
+664,Salad,American,356,3.8,Veg,https://loremflickr.com/600/400/Salad
+665,Ice Cream,Italian,290,4.8,Veg,"https://loremflickr.com/600/400/Ice,Cream"
+666,Ice Cream,American,129,4.6,Non-Veg,"https://loremflickr.com/600/400/Ice,Cream"
+667,Pasta,American,262,4.8,Veg,https://loremflickr.com/600/400/Pasta
+668,Gulab Jamun,Italian,372,3.9,Non-Veg,"https://loremflickr.com/600/400/Gulab,Jamun"
+669,Spring Roll,Italian,195,4.1,Veg,"https://loremflickr.com/600/400/Spring,Roll"
+670,Ice Cream,Chinese,110,3.6,Non-Veg,"https://loremflickr.com/600/400/Ice,Cream"
+671,Chowmein,Indian,103,4.9,Non-Veg,https://loremflickr.com/600/400/Chowmein
+672,Butter Chicken,Indian,391,4.7,Veg,"https://loremflickr.com/600/400/Butter,Chicken"
+673,Burger,Italian,108,4.1,Non-Veg,https://loremflickr.com/600/400/Burger
+674,Pasta,Chinese,455,3.7,Veg,https://loremflickr.com/600/400/Pasta
+675,Butter Chicken,Indian,403,4.9,Non-Veg,"https://loremflickr.com/600/400/Butter,Chicken"
+676,Ice Cream,Indian,139,4.8,Veg,"https://loremflickr.com/600/400/Ice,Cream"
+677,Salad,Chinese,154,4.2,Veg,https://loremflickr.com/600/400/Salad
+678,Gulab Jamun,American,140,4.9,Veg,"https://loremflickr.com/600/400/Gulab,Jamun"
+679,Ice Cream,Indian,429,4.6,Veg,"https://loremflickr.com/600/400/Ice,Cream"
+680,Gulab Jamun,Italian,500,3.5,Veg,"https://loremflickr.com/600/400/Gulab,Jamun"
+681,Biryani,American,228,3.7,Non-Veg,https://loremflickr.com/600/400/Biryani
+682,Biryani,Indian,493,4.4,Non-Veg,https://loremflickr.com/600/400/Biryani
+683,Idli,American,365,3.8,Non-Veg,https://loremflickr.com/600/400/Idli
+684,Spring Roll,American,500,4.4,Non-Veg,"https://loremflickr.com/600/400/Spring,Roll"
+685,Chowmein,Italian,420,4.8,Non-Veg,https://loremflickr.com/600/400/Chowmein
+686,Ice Cream,Italian,475,4.3,Veg,"https://loremflickr.com/600/400/Ice,Cream"
+687,Noodles,American,307,3.7,Veg,https://loremflickr.com/600/400/Noodles
+688,Idli,Indian,381,3.8,Veg,https://loremflickr.com/600/400/Idli
+689,Soup,American,290,4.6,Veg,https://loremflickr.com/600/400/Soup
+690,Noodles,Italian,383,3.7,Veg,https://loremflickr.com/600/400/Noodles
+691,Fried Rice,Indian,346,4.3,Non-Veg,"https://loremflickr.com/600/400/Fried,Rice"
+692,Sandwich,Chinese,223,4.1,Veg,https://loremflickr.com/600/400/Sandwich
+693,Ice Cream,Italian,452,4.3,Veg,"https://loremflickr.com/600/400/Ice,Cream"
+694,Butter Chicken,Italian,141,4.0,Veg,"https://loremflickr.com/600/400/Butter,Chicken"
+695,Biryani,Italian,187,4.2,Veg,https://loremflickr.com/600/400/Biryani
+696,Chowmein,Chinese,493,4.2,Veg,https://loremflickr.com/600/400/Chowmein
+697,Brownie,American,344,4.1,Non-Veg,https://loremflickr.com/600/400/Brownie
+698,Burger,Chinese,349,4.5,Non-Veg,https://loremflickr.com/600/400/Burger
+699,Noodles,American,238,4.7,Veg,https://loremflickr.com/600/400/Noodles
+700,Biryani,Chinese,390,4.3,Non-Veg,https://loremflickr.com/600/400/Biryani
+701,Samosa,American,220,4.7,Non-Veg,https://loremflickr.com/600/400/Samosa
+702,Butter Chicken,Italian,412,4.7,Non-Veg,"https://loremflickr.com/600/400/Butter,Chicken"
+703,Butter Chicken,Italian,300,4.8,Non-Veg,"https://loremflickr.com/600/400/Butter,Chicken"
+704,Dosa,Indian,238,4.5,Veg,https://loremflickr.com/600/400/Dosa
+705,Noodles,Italian,484,3.8,Non-Veg,https://loremflickr.com/600/400/Noodles
+706,Noodles,Chinese,392,4.9,Non-Veg,https://loremflickr.com/600/400/Noodles
+707,Brownie,Italian,120,3.5,Veg,https://loremflickr.com/600/400/Brownie
+708,Brownie,Indian,169,4.0,Veg,https://loremflickr.com/600/400/Brownie
+709,Butter Chicken,Chinese,306,3.7,Veg,"https://loremflickr.com/600/400/Butter,Chicken"
+710,Dosa,American,123,4.0,Veg,https://loremflickr.com/600/400/Dosa
+711,Pasta,Italian,110,4.4,Veg,https://loremflickr.com/600/400/Pasta
+712,Burger,Italian,355,3.7,Non-Veg,https://loremflickr.com/600/400/Burger
+713,Fried Rice,Indian,178,4.6,Non-Veg,"https://loremflickr.com/600/400/Fried,Rice"
+714,Paneer Tikka,Italian,395,4.8,Veg,"https://loremflickr.com/600/400/Paneer,Tikka"
+715,Paneer Tikka,Indian,329,5.0,Non-Veg,"https://loremflickr.com/600/400/Paneer,Tikka"
+716,Fried Rice,Chinese,498,3.7,Veg,"https://loremflickr.com/600/400/Fried,Rice"
+717,Pasta,American,161,4.4,Veg,https://loremflickr.com/600/400/Pasta
+718,Idli,American,139,3.8,Non-Veg,https://loremflickr.com/600/400/Idli
+719,Spring Roll,Italian,290,4.2,Non-Veg,"https://loremflickr.com/600/400/Spring,Roll"
+720,Chowmein,Chinese,182,4.4,Non-Veg,https://loremflickr.com/600/400/Chowmein
+721,Pizza,American,198,4.7,Veg,https://loremflickr.com/600/400/Pizza
+722,Paneer Tikka,Indian,263,4.0,Veg,"https://loremflickr.com/600/400/Paneer,Tikka"
+723,Pizza,Italian,426,4.1,Veg,https://loremflickr.com/600/400/Pizza
+724,Sandwich,Indian,165,4.1,Non-Veg,https://loremflickr.com/600/400/Sandwich
+725,Ice Cream,Italian,463,4.9,Veg,"https://loremflickr.com/600/400/Ice,Cream"
+726,Pasta,Indian,155,3.6,Veg,https://loremflickr.com/600/400/Pasta
+727,Rasgulla,American,296,4.8,Veg,https://loremflickr.com/600/400/Rasgulla
+728,Paneer Tikka,Italian,318,4.7,Non-Veg,"https://loremflickr.com/600/400/Paneer,Tikka"
+729,Brownie,Chinese,304,3.6,Veg,https://loremflickr.com/600/400/Brownie
+730,Gulab Jamun,Indian,104,4.9,Non-Veg,"https://loremflickr.com/600/400/Gulab,Jamun"
+731,Butter Chicken,American,358,4.1,Non-Veg,"https://loremflickr.com/600/400/Butter,Chicken"
+732,Rasgulla,Indian,175,4.2,Non-Veg,https://loremflickr.com/600/400/Rasgulla
+733,Fried Rice,Indian,167,4.9,Veg,"https://loremflickr.com/600/400/Fried,Rice"
+734,Soup,American,170,4.4,Veg,https://loremflickr.com/600/400/Soup
+735,Burger,Chinese,447,5.0,Non-Veg,https://loremflickr.com/600/400/Burger
+736,Dosa,Chinese,102,3.7,Non-Veg,https://loremflickr.com/600/400/Dosa
+737,Biryani,Indian,100,3.6,Non-Veg,https://loremflickr.com/600/400/Biryani
+738,Paneer Tikka,American,382,3.9,Veg,"https://loremflickr.com/600/400/Paneer,Tikka"
+739,Biryani,Italian,411,3.6,Veg,https://loremflickr.com/600/400/Biryani
+740,Sandwich,Italian,243,4.8,Non-Veg,https://loremflickr.com/600/400/Sandwich
+741,Rasgulla,Chinese,218,4.1,Non-Veg,https://loremflickr.com/600/400/Rasgulla
+742,Noodles,Indian,199,4.2,Non-Veg,https://loremflickr.com/600/400/Noodles
+743,Chowmein,American,237,3.6,Non-Veg,https://loremflickr.com/600/400/Chowmein
+744,Rasgulla,American,200,4.5,Non-Veg,https://loremflickr.com/600/400/Rasgulla
+745,Idli,Indian,211,4.4,Veg,https://loremflickr.com/600/400/Idli
+746,Spring Roll,American,158,4.7,Veg,"https://loremflickr.com/600/400/Spring,Roll"
+747,Fried Rice,Italian,469,4.8,Non-Veg,"https://loremflickr.com/600/400/Fried,Rice"
+748,Pizza,Italian,284,4.4,Non-Veg,https://loremflickr.com/600/400/Pizza
+749,Paneer Tikka,Indian,290,4.6,Veg,"https://loremflickr.com/600/400/Paneer,Tikka"
+750,Pasta,Indian,155,4.0,Non-Veg,https://loremflickr.com/600/400/Pasta
+751,Samosa,American,317,3.7,Veg,https://loremflickr.com/600/400/Samosa
+752,Gulab Jamun,Italian,233,4.2,Veg,"https://loremflickr.com/600/400/Gulab,Jamun"
+753,Noodles,American,123,4.2,Non-Veg,https://loremflickr.com/600/400/Noodles
+754,Gulab Jamun,Chinese,422,4.6,Non-Veg,"https://loremflickr.com/600/400/Gulab,Jamun"
+755,Pasta,Indian,278,4.7,Non-Veg,https://loremflickr.com/600/400/Pasta
+756,Pizza,American,303,4.9,Non-Veg,https://loremflickr.com/600/400/Pizza
+757,Rasgulla,Indian,415,4.3,Non-Veg,https://loremflickr.com/600/400/Rasgulla
+758,Noodles,Chinese,372,4.0,Veg,https://loremflickr.com/600/400/Noodles
+759,Biryani,American,148,4.7,Veg,https://loremflickr.com/600/400/Biryani
+760,Noodles,Indian,251,4.7,Veg,https://loremflickr.com/600/400/Noodles
+761,Soup,Italian,312,4.3,Non-Veg,https://loremflickr.com/600/400/Soup
+762,Paneer Tikka,Indian,497,3.9,Non-Veg,"https://loremflickr.com/600/400/Paneer,Tikka"
+763,Paneer Tikka,Chinese,418,3.8,Non-Veg,"https://loremflickr.com/600/400/Paneer,Tikka"
+764,Ice Cream,American,158,4.1,Non-Veg,"https://loremflickr.com/600/400/Ice,Cream"
+765,Brownie,American,468,4.3,Veg,https://loremflickr.com/600/400/Brownie
+766,Pasta,American,296,4.7,Veg,https://loremflickr.com/600/400/Pasta
+767,Samosa,Italian,289,4.4,Non-Veg,https://loremflickr.com/600/400/Samosa
+768,Chowmein,Indian,219,4.6,Veg,https://loremflickr.com/600/400/Chowmein
+769,Butter Chicken,Indian,315,4.7,Veg,"https://loremflickr.com/600/400/Butter,Chicken"
+770,Samosa,Indian,365,4.3,Veg,https://loremflickr.com/600/400/Samosa
+771,Paneer Tikka,Italian,232,4.7,Non-Veg,"https://loremflickr.com/600/400/Paneer,Tikka"
+772,Salad,American,263,4.3,Non-Veg,https://loremflickr.com/600/400/Salad
+773,Salad,Chinese,126,4.2,Non-Veg,https://loremflickr.com/600/400/Salad
+774,Rasgulla,Indian,113,3.6,Veg,https://loremflickr.com/600/400/Rasgulla
+775,Fried Rice,American,305,4.8,Non-Veg,"https://loremflickr.com/600/400/Fried,Rice"
+776,Biryani,Italian,238,4.1,Non-Veg,https://loremflickr.com/600/400/Biryani
+777,Biryani,American,400,4.7,Veg,https://loremflickr.com/600/400/Biryani
+778,Rasgulla,Indian,391,4.9,Non-Veg,https://loremflickr.com/600/400/Rasgulla
+779,Spring Roll,Indian,261,3.5,Veg,"https://loremflickr.com/600/400/Spring,Roll"
+780,Biryani,Indian,168,4.0,Veg,https://loremflickr.com/600/400/Biryani
+781,Salad,Indian,216,4.2,Non-Veg,https://loremflickr.com/600/400/Salad
+782,Sandwich,American,296,5.0,Non-Veg,https://loremflickr.com/600/400/Sandwich
+783,Pizza,Indian,379,4.3,Non-Veg,https://loremflickr.com/600/400/Pizza
+784,Butter Chicken,Indian,412,3.8,Non-Veg,"https://loremflickr.com/600/400/Butter,Chicken"
+785,Gulab Jamun,Chinese,500,4.1,Veg,"https://loremflickr.com/600/400/Gulab,Jamun"
+786,Dosa,Chinese,442,4.0,Veg,https://loremflickr.com/600/400/Dosa
+787,Samosa,Chinese,309,5.0,Non-Veg,https://loremflickr.com/600/400/Samosa
+788,Rasgulla,Italian,379,3.7,Veg,https://loremflickr.com/600/400/Rasgulla
+789,Ice Cream,Italian,482,3.9,Veg,"https://loremflickr.com/600/400/Ice,Cream"
+790,Samosa,American,338,4.5,Veg,https://loremflickr.com/600/400/Samosa
+791,Salad,Indian,452,3.6,Veg,https://loremflickr.com/600/400/Salad
+792,Chowmein,Indian,290,4.9,Non-Veg,https://loremflickr.com/600/400/Chowmein
+793,Spring Roll,Italian,482,4.0,Veg,"https://loremflickr.com/600/400/Spring,Roll"
+794,Sandwich,Indian,240,4.6,Non-Veg,https://loremflickr.com/600/400/Sandwich
+795,Paneer Tikka,Italian,469,4.6,Non-Veg,"https://loremflickr.com/600/400/Paneer,Tikka"
+796,Butter Chicken,Indian,395,4.3,Veg,"https://loremflickr.com/600/400/Butter,Chicken"
+797,Sandwich,Italian,108,4.1,Non-Veg,https://loremflickr.com/600/400/Sandwich
+798,Butter Chicken,American,153,4.4,Veg,"https://loremflickr.com/600/400/Butter,Chicken"
+799,Burger,Chinese,219,5.0,Veg,https://loremflickr.com/600/400/Burger
+800,Sandwich,Indian,225,4.5,Non-Veg,https://loremflickr.com/600/400/Sandwich
+801,Noodles,Italian,243,4.7,Veg,https://loremflickr.com/600/400/Noodles
+802,Ice Cream,American,355,4.3,Veg,"https://loremflickr.com/600/400/Ice,Cream"
+803,Pasta,Italian,169,3.8,Non-Veg,https://loremflickr.com/600/400/Pasta
+804,Salad,Italian,210,4.3,Veg,https://loremflickr.com/600/400/Salad
+805,Idli,American,184,4.1,Veg,https://loremflickr.com/600/400/Idli
+806,Gulab Jamun,American,310,4.8,Veg,"https://loremflickr.com/600/400/Gulab,Jamun"
+807,Paneer Tikka,American,481,3.5,Non-Veg,"https://loremflickr.com/600/400/Paneer,Tikka"
+808,Soup,Chinese,451,4.0,Veg,https://loremflickr.com/600/400/Soup
+809,Ice Cream,Indian,170,4.1,Non-Veg,"https://loremflickr.com/600/400/Ice,Cream"
+810,Pizza,Italian,186,4.8,Veg,https://loremflickr.com/600/400/Pizza
+811,Gulab Jamun,Chinese,430,4.1,Veg,"https://loremflickr.com/600/400/Gulab,Jamun"
+812,Burger,Italian,426,3.6,Non-Veg,https://loremflickr.com/600/400/Burger
+813,Burger,Indian,411,4.9,Non-Veg,https://loremflickr.com/600/400/Burger
+814,Idli,Italian,386,3.7,Non-Veg,https://loremflickr.com/600/400/Idli
+815,Pasta,American,356,3.8,Non-Veg,https://loremflickr.com/600/400/Pasta
+816,Spring Roll,Indian,308,4.2,Veg,"https://loremflickr.com/600/400/Spring,Roll"
+817,Samosa,Italian,202,4.9,Non-Veg,https://loremflickr.com/600/400/Samosa
+818,Pizza,American,386,4.4,Non-Veg,https://loremflickr.com/600/400/Pizza
+819,Pizza,Indian,226,3.6,Veg,https://loremflickr.com/600/400/Pizza
+820,Butter Chicken,Chinese,159,4.5,Non-Veg,"https://loremflickr.com/600/400/Butter,Chicken"
+821,Idli,Chinese,453,4.4,Veg,https://loremflickr.com/600/400/Idli
+822,Dosa,Chinese,184,3.5,Veg,https://loremflickr.com/600/400/Dosa
+823,Brownie,Chinese,496,4.4,Non-Veg,https://loremflickr.com/600/400/Brownie
+824,Samosa,Chinese,210,4.1,Non-Veg,https://loremflickr.com/600/400/Samosa
+825,Spring Roll,Italian,171,4.4,Non-Veg,"https://loremflickr.com/600/400/Spring,Roll"
+826,Noodles,Indian,299,4.2,Non-Veg,https://loremflickr.com/600/400/Noodles
+827,Samosa,Indian,351,3.9,Non-Veg,https://loremflickr.com/600/400/Samosa
+828,Dosa,Indian,334,4.5,Non-Veg,https://loremflickr.com/600/400/Dosa
+829,Spring Roll,Chinese,423,3.6,Non-Veg,"https://loremflickr.com/600/400/Spring,Roll"
+830,Fried Rice,Chinese,494,4.5,Non-Veg,"https://loremflickr.com/600/400/Fried,Rice"
+831,Rasgulla,American,464,3.6,Non-Veg,https://loremflickr.com/600/400/Rasgulla
+832,Biryani,Italian,157,3.5,Veg,https://loremflickr.com/600/400/Biryani
+833,Pizza,Italian,241,3.8,Veg,https://loremflickr.com/600/400/Pizza
+834,Dosa,Indian,407,4.2,Veg,https://loremflickr.com/600/400/Dosa
+835,Noodles,Indian,218,3.7,Veg,https://loremflickr.com/600/400/Noodles
+836,Spring Roll,Chinese,309,4.2,Veg,"https://loremflickr.com/600/400/Spring,Roll"
+837,Dosa,Indian,486,4.0,Veg,https://loremflickr.com/600/400/Dosa
+838,Paneer Tikka,Indian,152,3.7,Non-Veg,"https://loremflickr.com/600/400/Paneer,Tikka"
+839,Pizza,Italian,418,4.0,Non-Veg,https://loremflickr.com/600/400/Pizza
+840,Pizza,Chinese,190,3.8,Veg,https://loremflickr.com/600/400/Pizza
+841,Soup,Indian,353,3.8,Veg,https://loremflickr.com/600/400/Soup
+842,Rasgulla,Italian,205,4.9,Non-Veg,https://loremflickr.com/600/400/Rasgulla
+843,Samosa,Chinese,397,4.0,Non-Veg,https://loremflickr.com/600/400/Samosa
+844,Pizza,Chinese,237,3.8,Non-Veg,https://loremflickr.com/600/400/Pizza
+845,Ice Cream,Italian,414,3.9,Non-Veg,"https://loremflickr.com/600/400/Ice,Cream"
+846,Brownie,Indian,448,4.9,Veg,https://loremflickr.com/600/400/Brownie
+847,Rasgulla,Chinese,165,4.0,Veg,https://loremflickr.com/600/400/Rasgulla
+848,Paneer Tikka,American,483,4.5,Non-Veg,"https://loremflickr.com/600/400/Paneer,Tikka"
+849,Dosa,Italian,379,4.0,Veg,https://loremflickr.com/600/400/Dosa
+850,Salad,Chinese,407,4.4,Veg,https://loremflickr.com/600/400/Salad
+851,Soup,Italian,452,4.2,Non-Veg,https://loremflickr.com/600/400/Soup
+852,Fried Rice,Chinese,263,3.5,Non-Veg,"https://loremflickr.com/600/400/Fried,Rice"
+853,Soup,Indian,481,4.7,Veg,https://loremflickr.com/600/400/Soup
+854,Gulab Jamun,Italian,441,4.7,Non-Veg,"https://loremflickr.com/600/400/Gulab,Jamun"
+855,Rasgulla,Chinese,411,3.7,Non-Veg,https://loremflickr.com/600/400/Rasgulla
+856,Burger,Chinese,143,4.9,Non-Veg,https://loremflickr.com/600/400/Burger
+857,Brownie,Chinese,284,4.7,Veg,https://loremflickr.com/600/400/Brownie
+858,Gulab Jamun,Indian,251,4.5,Non-Veg,"https://loremflickr.com/600/400/Gulab,Jamun"
+859,Soup,Indian,253,4.0,Veg,https://loremflickr.com/600/400/Soup
+860,Sandwich,American,155,4.7,Veg,https://loremflickr.com/600/400/Sandwich
+861,Chowmein,Indian,317,4.0,Non-Veg,https://loremflickr.com/600/400/Chowmein
+862,Spring Roll,Italian,262,3.6,Veg,"https://loremflickr.com/600/400/Spring,Roll"
+863,Soup,Chinese,264,4.7,Non-Veg,https://loremflickr.com/600/400/Soup
+864,Gulab Jamun,Italian,193,4.3,Veg,"https://loremflickr.com/600/400/Gulab,Jamun"
+865,Paneer Tikka,Italian,194,4.7,Non-Veg,"https://loremflickr.com/600/400/Paneer,Tikka"
+866,Brownie,Chinese,472,4.3,Non-Veg,https://loremflickr.com/600/400/Brownie
+867,Ice Cream,Indian,295,4.6,Non-Veg,"https://loremflickr.com/600/400/Ice,Cream"
+868,Butter Chicken,American,386,4.4,Non-Veg,"https://loremflickr.com/600/400/Butter,Chicken"
+869,Brownie,Chinese,174,3.9,Veg,https://loremflickr.com/600/400/Brownie
+870,Pizza,Chinese,392,3.7,Non-Veg,https://loremflickr.com/600/400/Pizza
+871,Salad,Indian,465,5.0,Non-Veg,https://loremflickr.com/600/400/Salad
+872,Brownie,American,328,4.6,Veg,https://loremflickr.com/600/400/Brownie
+873,Rasgulla,Chinese,341,4.6,Non-Veg,https://loremflickr.com/600/400/Rasgulla
+874,Samosa,Chinese,499,4.4,Veg,https://loremflickr.com/600/400/Samosa
+875,Noodles,American,358,4.6,Non-Veg,https://loremflickr.com/600/400/Noodles
+876,Chowmein,Chinese,212,4.0,Non-Veg,https://loremflickr.com/600/400/Chowmein
+877,Chowmein,Chinese,144,4.5,Veg,https://loremflickr.com/600/400/Chowmein
+878,Pizza,Indian,284,3.9,Veg,https://loremflickr.com/600/400/Pizza
+879,Ice Cream,Chinese,498,4.5,Veg,"https://loremflickr.com/600/400/Ice,Cream"
+880,Fried Rice,Chinese,454,3.7,Veg,"https://loremflickr.com/600/400/Fried,Rice"
+881,Fried Rice,Chinese,342,4.0,Non-Veg,"https://loremflickr.com/600/400/Fried,Rice"
+882,Samosa,Indian,207,3.9,Non-Veg,https://loremflickr.com/600/400/Samosa
+883,Dosa,American,468,4.4,Veg,https://loremflickr.com/600/400/Dosa
+884,Fried Rice,American,287,4.3,Non-Veg,"https://loremflickr.com/600/400/Fried,Rice"
+885,Samosa,Italian,476,4.5,Veg,https://loremflickr.com/600/400/Samosa
+886,Pizza,Chinese,136,4.3,Veg,https://loremflickr.com/600/400/Pizza
+887,Samosa,Italian,452,3.6,Veg,https://loremflickr.com/600/400/Samosa
+888,Idli,Indian,379,3.8,Veg,https://loremflickr.com/600/400/Idli
+889,Idli,Indian,229,4.5,Non-Veg,https://loremflickr.com/600/400/Idli
+890,Paneer Tikka,Italian,470,4.2,Non-Veg,"https://loremflickr.com/600/400/Paneer,Tikka"
+891,Salad,American,458,3.8,Non-Veg,https://loremflickr.com/600/400/Salad
+892,Noodles,Chinese,302,3.9,Non-Veg,https://loremflickr.com/600/400/Noodles
+893,Pizza,Italian,395,4.7,Veg,https://loremflickr.com/600/400/Pizza
+894,Pasta,Chinese,472,3.9,Non-Veg,https://loremflickr.com/600/400/Pasta
+895,Pizza,American,319,4.0,Veg,https://loremflickr.com/600/400/Pizza
+896,Salad,American,109,3.6,Non-Veg,https://loremflickr.com/600/400/Salad
+897,Burger,Indian,130,4.7,Veg,https://loremflickr.com/600/400/Burger
+898,Gulab Jamun,Italian,235,4.9,Non-Veg,"https://loremflickr.com/600/400/Gulab,Jamun"
+899,Soup,Italian,243,4.1,Non-Veg,https://loremflickr.com/600/400/Soup
+900,Ice Cream,Italian,206,4.6,Veg,"https://loremflickr.com/600/400/Ice,Cream"
+901,Idli,Chinese,418,4.3,Veg,https://loremflickr.com/600/400/Idli
+902,Chowmein,Italian,101,4.4,Non-Veg,https://loremflickr.com/600/400/Chowmein
+903,Pizza,Indian,100,4.2,Non-Veg,https://loremflickr.com/600/400/Pizza
+904,Idli,Italian,422,3.8,Veg,https://loremflickr.com/600/400/Idli
+905,Gulab Jamun,American,155,4.2,Veg,"https://loremflickr.com/600/400/Gulab,Jamun"
+906,Biryani,Italian,190,3.7,Veg,https://loremflickr.com/600/400/Biryani
+907,Biryani,Indian,162,4.3,Veg,https://loremflickr.com/600/400/Biryani
+908,Paneer Tikka,American,138,5.0,Veg,"https://loremflickr.com/600/400/Paneer,Tikka"
+909,Pizza,Indian,408,4.3,Veg,https://loremflickr.com/600/400/Pizza
+910,Butter Chicken,Indian,397,4.7,Veg,"https://loremflickr.com/600/400/Butter,Chicken"
+911,Pizza,Indian,468,4.7,Non-Veg,https://loremflickr.com/600/400/Pizza
+912,Biryani,American,240,4.3,Non-Veg,https://loremflickr.com/600/400/Biryani
+913,Butter Chicken,Italian,273,4.6,Non-Veg,"https://loremflickr.com/600/400/Butter,Chicken"
+914,Pasta,American,131,4.6,Veg,https://loremflickr.com/600/400/Pasta
+915,Idli,Italian,342,3.6,Non-Veg,https://loremflickr.com/600/400/Idli
+916,Biryani,Indian,125,4.1,Non-Veg,https://loremflickr.com/600/400/Biryani
+917,Idli,Chinese,342,4.5,Veg,https://loremflickr.com/600/400/Idli
+918,Paneer Tikka,Chinese,273,4.2,Veg,"https://loremflickr.com/600/400/Paneer,Tikka"
+919,Brownie,Chinese,165,4.7,Non-Veg,https://loremflickr.com/600/400/Brownie
+920,Sandwich,Chinese,176,3.5,Non-Veg,https://loremflickr.com/600/400/Sandwich
+921,Idli,Indian,198,3.7,Veg,https://loremflickr.com/600/400/Idli
+922,Noodles,Chinese,230,3.6,Non-Veg,https://loremflickr.com/600/400/Noodles
+923,Biryani,Indian,120,4.7,Veg,https://loremflickr.com/600/400/Biryani
+924,Butter Chicken,American,182,4.8,Non-Veg,"https://loremflickr.com/600/400/Butter,Chicken"
+925,Pizza,Italian,211,4.8,Veg,https://loremflickr.com/600/400/Pizza
+926,Biryani,American,277,4.3,Non-Veg,https://loremflickr.com/600/400/Biryani
+927,Ice Cream,Italian,465,4.4,Non-Veg,"https://loremflickr.com/600/400/Ice,Cream"
+928,Paneer Tikka,American,138,4.5,Non-Veg,"https://loremflickr.com/600/400/Paneer,Tikka"
+929,Pizza,American,145,4.2,Non-Veg,https://loremflickr.com/600/400/Pizza
+930,Idli,Indian,458,4.2,Veg,https://loremflickr.com/600/400/Idli
+931,Fried Rice,Italian,259,4.8,Non-Veg,"https://loremflickr.com/600/400/Fried,Rice"
+932,Fried Rice,American,242,4.7,Non-Veg,"https://loremflickr.com/600/400/Fried,Rice"
+933,Rasgulla,American,458,4.7,Non-Veg,https://loremflickr.com/600/400/Rasgulla
+934,Biryani,Chinese,458,4.7,Veg,https://loremflickr.com/600/400/Biryani
+935,Burger,Chinese,442,4.0,Non-Veg,https://loremflickr.com/600/400/Burger
+936,Samosa,Italian,203,4.1,Non-Veg,https://loremflickr.com/600/400/Samosa
+937,Fried Rice,Italian,365,5.0,Non-Veg,"https://loremflickr.com/600/400/Fried,Rice"
+938,Salad,Chinese,457,4.4,Veg,https://loremflickr.com/600/400/Salad
+939,Fried Rice,Chinese,277,4.2,Veg,"https://loremflickr.com/600/400/Fried,Rice"
+940,Ice Cream,American,230,4.9,Veg,"https://loremflickr.com/600/400/Ice,Cream"
+941,Gulab Jamun,American,207,3.8,Non-Veg,"https://loremflickr.com/600/400/Gulab,Jamun"
+942,Butter Chicken,American,175,4.7,Veg,"https://loremflickr.com/600/400/Butter,Chicken"
+943,Sandwich,American,256,3.8,Veg,https://loremflickr.com/600/400/Sandwich
+944,Salad,Italian,472,4.8,Non-Veg,https://loremflickr.com/600/400/Salad
+945,Paneer Tikka,Indian,325,4.2,Veg,"https://loremflickr.com/600/400/Paneer,Tikka"
+946,Brownie,Indian,165,4.1,Non-Veg,https://loremflickr.com/600/400/Brownie
+947,Spring Roll,Italian,216,3.7,Non-Veg,"https://loremflickr.com/600/400/Spring,Roll"
+948,Idli,Indian,484,4.2,Veg,https://loremflickr.com/600/400/Idli
+949,Gulab Jamun,American,425,4.8,Non-Veg,"https://loremflickr.com/600/400/Gulab,Jamun"
+950,Rasgulla,American,205,3.8,Non-Veg,https://loremflickr.com/600/400/Rasgulla
+951,Butter Chicken,Indian,340,4.9,Veg,"https://loremflickr.com/600/400/Butter,Chicken"
+952,Biryani,Italian,166,3.9,Veg,https://loremflickr.com/600/400/Biryani
+953,Biryani,Italian,107,4.3,Non-Veg,https://loremflickr.com/600/400/Biryani
+954,Sandwich,Chinese,439,4.0,Veg,https://loremflickr.com/600/400/Sandwich
+955,Pizza,Italian,498,4.7,Veg,https://loremflickr.com/600/400/Pizza
+956,Pizza,Chinese,261,4.2,Veg,https://loremflickr.com/600/400/Pizza
+957,Pasta,American,179,4.8,Veg,https://loremflickr.com/600/400/Pasta
+958,Pasta,Indian,168,4.6,Veg,https://loremflickr.com/600/400/Pasta
+959,Gulab Jamun,Chinese,173,4.0,Veg,"https://loremflickr.com/600/400/Gulab,Jamun"
+960,Pizza,Italian,201,3.5,Veg,https://loremflickr.com/600/400/Pizza
+961,Pizza,Indian,428,4.4,Non-Veg,https://loremflickr.com/600/400/Pizza
+962,Dosa,Italian,478,4.3,Non-Veg,https://loremflickr.com/600/400/Dosa
+963,Brownie,Italian,155,4.3,Non-Veg,https://loremflickr.com/600/400/Brownie
+964,Paneer Tikka,Indian,316,3.6,Non-Veg,"https://loremflickr.com/600/400/Paneer,Tikka"
+965,Rasgulla,American,417,4.5,Veg,https://loremflickr.com/600/400/Rasgulla
+966,Soup,Chinese,294,3.8,Non-Veg,https://loremflickr.com/600/400/Soup
+967,Samosa,American,176,4.3,Veg,https://loremflickr.com/600/400/Samosa
+968,Biryani,Italian,424,3.8,Veg,https://loremflickr.com/600/400/Biryani
+969,Dosa,American,301,4.5,Non-Veg,https://loremflickr.com/600/400/Dosa
+970,Chowmein,Indian,135,4.2,Veg,https://loremflickr.com/600/400/Chowmein
+971,Sandwich,Indian,451,4.2,Non-Veg,https://loremflickr.com/600/400/Sandwich
+972,Gulab Jamun,Italian,119,3.8,Veg,"https://loremflickr.com/600/400/Gulab,Jamun"
+973,Salad,American,268,3.6,Veg,https://loremflickr.com/600/400/Salad
+974,Noodles,American,303,4.9,Veg,https://loremflickr.com/600/400/Noodles
+975,Biryani,Indian,269,3.8,Non-Veg,https://loremflickr.com/600/400/Biryani
+976,Rasgulla,Italian,133,4.1,Non-Veg,https://loremflickr.com/600/400/Rasgulla
+977,Noodles,American,406,4.9,Non-Veg,https://loremflickr.com/600/400/Noodles
+978,Biryani,Italian,497,4.6,Non-Veg,https://loremflickr.com/600/400/Biryani
+979,Noodles,Italian,449,3.6,Non-Veg,https://loremflickr.com/600/400/Noodles
+980,Biryani,American,228,4.4,Non-Veg,https://loremflickr.com/600/400/Biryani
+981,Paneer Tikka,Indian,289,3.5,Veg,"https://loremflickr.com/600/400/Paneer,Tikka"
+982,Fried Rice,Chinese,235,4.6,Non-Veg,"https://loremflickr.com/600/400/Fried,Rice"
+983,Brownie,American,485,4.5,Veg,https://loremflickr.com/600/400/Brownie
+984,Soup,Italian,442,4.8,Non-Veg,https://loremflickr.com/600/400/Soup
+985,Soup,Indian,110,4.9,Non-Veg,https://loremflickr.com/600/400/Soup
+986,Rasgulla,American,406,3.5,Non-Veg,https://loremflickr.com/600/400/Rasgulla
+987,Spring Roll,Italian,480,4.4,Veg,"https://loremflickr.com/600/400/Spring,Roll"
+988,Paneer Tikka,American,397,4.9,Veg,"https://loremflickr.com/600/400/Paneer,Tikka"
+989,Pizza,Indian,198,4.6,Non-Veg,https://loremflickr.com/600/400/Pizza
+990,Sandwich,Indian,115,4.4,Veg,https://loremflickr.com/600/400/Sandwich
+991,Spring Roll,American,387,3.8,Veg,"https://loremflickr.com/600/400/Spring,Roll"
+992,Chowmein,Indian,398,3.8,Veg,https://loremflickr.com/600/400/Chowmein
+993,Dosa,Indian,498,4.3,Veg,https://loremflickr.com/600/400/Dosa
+994,Butter Chicken,Indian,497,4.8,Veg,"https://loremflickr.com/600/400/Butter,Chicken"
+995,Pasta,Indian,371,4.3,Veg,https://loremflickr.com/600/400/Pasta
+996,Sandwich,American,169,3.5,Non-Veg,https://loremflickr.com/600/400/Sandwich
+997,Idli,Indian,485,4.5,Veg,https://loremflickr.com/600/400/Idli
+998,Noodles,Italian,275,4.7,Veg,https://loremflickr.com/600/400/Noodles
+999,Burger,American,327,4.3,Non-Veg,https://loremflickr.com/600/400/Burger
+1000,Noodles,Italian,478,4.4,Veg,https://loremflickr.com/600/400/Noodles
